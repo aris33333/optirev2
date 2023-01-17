@@ -1,0 +1,27 @@
+Change Component DesignItemId : Designator=C19 Old DesignItemId=CMP-00112-4 New DesignItemId=CMP-00098-4
+Change Component DesignItemId : Designator=C20 Old DesignItemId=CMP-00112-4 New DesignItemId=CMP-00098-4
+Change Component Footprint: Designator=C19 Old Footprint=E-CAP, SMT, diameter 10mm, height 10.2mm New Footprint=E-CAP, SMT, diameter 6.3mm, height 7.7mm
+Change Component Footprint: Designator=C20 Old Footprint=E-CAP, SMT, diameter 10mm, height 10.2mm New Footprint=E-CAP, SMT, diameter 6.3mm, height 7.7mm
+Change Component Comment : Designator=C19 Old Comment=Cap pol 220µF 25V New Comment=Cap pol 220µF 16V
+Change Component Comment : Designator=C20 Old Comment=Cap pol 220µF 25V New Comment=Cap pol 220µF 16V
+Change Component Description : Designator=C19 Old Description=Cap Aluminum 220uF 25V ±20% (10x10.2mm) SMD 2000h 85°C New Description=Cap Aluminum 220uF 16V ±20% (6.3x7.7mm) SMD 2000h 85°C
+Change Component Description : Designator=C20 Old Description=Cap Aluminum 220uF 25V ±20% (10x10.2mm) SMD 2000h 85°C New Description=Cap Aluminum 220uF 16V ±20% (6.3x7.7mm) SMD 2000h 85°C
+Change Managed Component Library Link : Designator=C19 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=43C287B2-96F4-417D-9999-914F888B51D1 New ItemGUID=7056252D-A1A7-4632-9516-91AC9F4DA487 Old RevisionGUID=D03E3D68-3A99-43A5-A387-FC31D4B5187C New RevisionGUID=B7B4FC9A-873D-4F2E-B795-4226F53632C4
+Change Managed Component Library Link : Designator=C20 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=43C287B2-96F4-417D-9999-914F888B51D1 New ItemGUID=7056252D-A1A7-4632-9516-91AC9F4DA487 Old RevisionGUID=D03E3D68-3A99-43A5-A387-FC31D4B5187C New RevisionGUID=B7B4FC9A-873D-4F2E-B795-4226F53632C4
+Change component parameters: Designator = "C19" ("C19"); Footprint = "E-CAP, SMT, diameter 10mm, height 10.2mm"; UniqueID = "\BTSGVAVV" ("\BTSGVAVV")
+Change component parameters (AddParameter): Name = "+ Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "- Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "220µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifetime @ Max. Temp. (hours)"; Value = "2000h"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum operating temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple current (RMS)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20" ("C20"); Footprint = "E-CAP, SMT, diameter 10mm, height 10.2mm"; UniqueID = "\ORHTPEZG" ("\ORHTPEZG")
+Change component parameters (AddParameter): Name = "+ Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "- Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "220µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifetime @ Max. Temp. (hours)"; Value = "2000h"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum operating temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple current (RMS)"; Value = ""; VariantName = "[No Variations]"
+Added Room: Name=Optical Compressor V2

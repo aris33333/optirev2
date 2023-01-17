@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=U2-5
+Removed Pin From Net: NetName=Clean Pin=U4-5
+Removed Pin From Net: NetName=NetR50_2 Pin=U4-6
+Removed Pin From Net: NetName=PreOut Pin=U4-7
+Added Pin To Net: NetName=Clean Pin=U2-5
+Added Pin To Net: NetName=NetR50_2 Pin=U2-6
+Added Pin To Net: NetName=PreOut Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U4-5
+Added Pin To Net: NetName=NetU4_6 Pin=U4-6
+Added Pin To Net: NetName=NetU4_6 Pin=U4-7
+Added Net: Name=NetU4_6

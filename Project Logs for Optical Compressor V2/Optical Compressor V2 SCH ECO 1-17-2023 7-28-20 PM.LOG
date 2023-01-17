@@ -1,0 +1,4 @@
+Change Value of Parameter Rated Voltage in Part C20 Old=25V New=16V
+Change Value of Parameter Rated Voltage in Part C19 Old=25V New=16V
+Update Managed Component C19 From CMP-00098-4[Cap pol 220µF 25V] To CMP-00098-4[Cap pol 220µF 16V] in Optical Compressor V2.SchDoc
+Update Managed Component C20 From CMP-00098-4[Cap pol 220µF 25V] To CMP-00098-4[Cap pol 220µF 16V] in Optical Compressor V2.SchDoc
