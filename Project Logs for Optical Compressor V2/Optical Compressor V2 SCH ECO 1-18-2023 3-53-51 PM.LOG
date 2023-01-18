@@ -1,0 +1,18 @@
+Change Value of Parameter Maximum working voltage in Part R36 Old=150V New=75V
+Change Value of Parameter Maximum working voltage in Part R51 Old=150V New=75V
+Change Value of Parameter Maximum working voltage in Part R29 Old=150V New=75V
+Change Value of Parameter Power in Part R36 Old=125mW New=100mW
+Change Value of Parameter Power in Part R29 Old=125mW New=100mW
+Change Value of Parameter Power in Part R51 Old=125mW New=100mW
+Change Value of Parameter Size (Imperial) in Part R51 Old=0805 New=0603
+Change Value of Parameter Size (Imperial) in Part R36 Old=0805 New=0603
+Change Value of Parameter Size (Imperial) in Part R29 Old=0805 New=0603
+Change Value of Parameter Temperature Coefficient (ppm/°C) in Part R29 Old=50 New=25
+Change Value of Parameter Temperature Coefficient (ppm/°C) in Part R51 Old=50 New=25
+Change Value of Parameter Temperature Coefficient (ppm/°C) in Part R36 Old=50 New=25
+Change Value of Parameter Tolerance (+-) in Part R51 Old=1% New=0.1%
+Change Value of Parameter Tolerance (+-) in Part R29 Old=1% New=0.1%
+Change Value of Parameter Tolerance (+-) in Part R36 Old=1% New=0.1%
+Update Managed Component R29 From CMP-01935-3[Res 6.81k 1% 0805] To CMP-01935-3[Res 6.81k 0.1% 0603] in Optical Compressor V2.SchDoc
+Update Managed Component R36 From CMP-01935-3[Res 6.81k 1% 0805] To CMP-01935-3[Res 6.81k 0.1% 0603] in Optical Compressor V2.SchDoc
+Update Managed Component R51 From CMP-01935-3[Res 6.81k 1% 0805] To CMP-01935-3[Res 6.81k 0.1% 0603] in Optical Compressor V2.SchDoc

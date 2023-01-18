@@ -1,0 +1,8 @@
+Change Value of Parameter Maximum working voltage in Part R40 Old=150V New=75V
+Change Value of Parameter Maximum working voltage in Part R34 Old=150V New=75V
+Change Value of Parameter Power in Part R40 Old=125mW New=100mW
+Change Value of Parameter Power in Part R34 Old=125mW New=100mW
+Change Value of Parameter Size (Imperial) in Part R40 Old=0805 New=0603
+Change Value of Parameter Size (Imperial) in Part R34 Old=0805 New=0603
+Update Managed Component R34 From CMP-03341-2[Res 20k 1% 0805] To CMP-03341-2[Res 20k 1% 0603] in Optical Compressor V2.SchDoc
+Update Managed Component R40 From CMP-03341-2[Res 20k 1% 0805] To CMP-03341-2[Res 20k 1% 0603] in Optical Compressor V2.SchDoc

@@ -1,0 +1,12 @@
+Change Value of Parameter Composition in Part R15 Old=Thick film New=Thin film
+Change Value of Parameter Composition in Part R13 Old=Thick film New=Thin film
+Change Value of Parameter Maximum working voltage in Part R15 Old=150V New=75V
+Change Value of Parameter Maximum working voltage in Part R13 Old=150V New=75V
+Change Value of Parameter Power in Part R13 Old=125mW New=100mW
+Change Value of Parameter Power in Part R15 Old=125mW New=100mW
+Change Value of Parameter Size (Imperial) in Part R13 Old=0805 New=0603
+Change Value of Parameter Size (Imperial) in Part R15 Old=0805 New=0603
+Change Value of Parameter Temperature Coefficient (ppm/°C) in Part R15 Old=100 New=50
+Change Value of Parameter Temperature Coefficient (ppm/°C) in Part R13 Old=100 New=50
+Update Managed Component R13 From CMP-03428-2[Res 100k 1% 0805] To CMP-03428-2[Res 100k 1% 0603] in Optical Compressor V2.SchDoc
+Update Managed Component R15 From CMP-03428-2[Res 100k 1% 0805] To CMP-03428-2[Res 100k 1% 0603] in Optical Compressor V2.SchDoc

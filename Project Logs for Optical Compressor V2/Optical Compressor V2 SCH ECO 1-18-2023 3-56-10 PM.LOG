@@ -1,0 +1,24 @@
+Change Value of Parameter Maximum working voltage in Part R46 Old=150V New=75V
+Change Value of Parameter Maximum working voltage in Part R27 Old=150V New=75V
+Change Value of Parameter Maximum working voltage in Part R30 Old=150V New=75V
+Change Value of Parameter Maximum working voltage in Part R28 Old=150V New=75V
+Change Value of Parameter Maximum working voltage in Part R25 Old=150V New=75V
+Change Value of Parameter Maximum working voltage in Part R24 Old=150V New=75V
+Change Value of Parameter Power in Part R24 Old=125mW New=100mW
+Change Value of Parameter Power in Part R28 Old=125mW New=100mW
+Change Value of Parameter Power in Part R30 Old=125mW New=100mW
+Change Value of Parameter Power in Part R25 Old=125mW New=100mW
+Change Value of Parameter Power in Part R46 Old=125mW New=100mW
+Change Value of Parameter Power in Part R27 Old=125mW New=100mW
+Change Value of Parameter Size (Imperial) in Part R46 Old=0805 New=0603
+Change Value of Parameter Size (Imperial) in Part R30 Old=0805 New=0603
+Change Value of Parameter Size (Imperial) in Part R25 Old=0805 New=0603
+Change Value of Parameter Size (Imperial) in Part R24 Old=0805 New=0603
+Change Value of Parameter Size (Imperial) in Part R28 Old=0805 New=0603
+Change Value of Parameter Size (Imperial) in Part R27 Old=0805 New=0603
+Update Managed Component R24 From CMP-03540-2[Res 1M 1% 0805] To CMP-03540-2[Res 1M 1% 0603] in Optical Compressor V2.SchDoc
+Update Managed Component R25 From CMP-03540-2[Res 1M 1% 0805] To CMP-03540-2[Res 1M 1% 0603] in Optical Compressor V2.SchDoc
+Update Managed Component R27 From CMP-03540-2[Res 1M 1% 0805] To CMP-03540-2[Res 1M 1% 0603] in Optical Compressor V2.SchDoc
+Update Managed Component R28 From CMP-03540-2[Res 1M 1% 0805] To CMP-03540-2[Res 1M 1% 0603] in Optical Compressor V2.SchDoc
+Update Managed Component R30 From CMP-03540-2[Res 1M 1% 0805] To CMP-03540-2[Res 1M 1% 0603] in Optical Compressor V2.SchDoc
+Update Managed Component R46 From CMP-03540-2[Res 1M 1% 0805] To CMP-03540-2[Res 1M 1% 0603] in Optical Compressor V2.SchDoc

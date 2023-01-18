@@ -1,0 +1,822 @@
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=VCC Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C12-1
+Removed Pin From Net: NetName=VCC Pin=C12-2
+Removed Pin From Net: NetName=NetC36_1 Pin=C38-2
+Removed Pin From Net: NetName=NetC23_1 Pin=R13-1
+Removed Pin From Net: NetName=GND Pin=R22-1
+Removed Pin From Net: NetName=NetC28_1 Pin=R22-2
+Removed Pin From Net: NetName=NetC28_1 Pin=R26-1
+Change Component Footprint: Designator=C2 Old Footprint=0805-CAP New Footprint=0603-CAP
+Change Component Footprint: Designator=C3 Old Footprint=0805-CAP New Footprint=0603-CAP
+Change Component Footprint: Designator=C4 Old Footprint=0805-CAP New Footprint=0603-CAP
+Change Component Footprint: Designator=C5 Old Footprint=0805-CAP New Footprint=0603-CAP
+Change Component Footprint: Designator=C6 Old Footprint=0805-CAP New Footprint=0603-CAP
+Change Component Footprint: Designator=C7 Old Footprint=0805-CAP New Footprint=0603-CAP
+Change Component Footprint: Designator=C8 Old Footprint=0805-CAP New Footprint=0603-CAP
+Change Component Footprint: Designator=C9 Old Footprint=0805-CAP New Footprint=0603-CAP
+Change Component Footprint: Designator=C10 Old Footprint=0805-CAP New Footprint=0603-CAP
+Change Component Footprint: Designator=C11 Old Footprint=0805-CAP New Footprint=0603-CAP
+Change Component Footprint: Designator=C12 Old Footprint=0805-CAP New Footprint=0603-CAP
+Change Component Footprint: Designator=C13 Old Footprint=0805-CAP New Footprint=0603-CAP
+Change Component Footprint: Designator=C23 Old Footprint=0805-CAP New Footprint=0603-CAP
+Change Component Footprint: Designator=C24 Old Footprint=0805-CAP New Footprint=0603-CAP
+Change Component Footprint: Designator=C26 Old Footprint=0805-CAP New Footprint=0603-CAP
+Change Component Footprint: Designator=C27 Old Footprint=0805-CAP New Footprint=0603-CAP
+Change Component Footprint: Designator=C29 Old Footprint=0805-CAP New Footprint=0603-CAP
+Change Component Footprint: Designator=C30 Old Footprint=0805-CAP New Footprint=0603-CAP
+Change Component Footprint: Designator=C33 Old Footprint=0805-CAP New Footprint=0603-CAP
+Change Component Footprint: Designator=C28 Old Footprint=0805-CAP New Footprint=1206-CAP
+Change Component Footprint: Designator=R1 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R2 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R3 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R5 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R6 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R7 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R8 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R9 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R10 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R12 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R13 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R14 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R15 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R16 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R19 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R20 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R21 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R22 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R23 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R24 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R25 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R27 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R28 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R29 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R30 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R31 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R32 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R33 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R34 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R36 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R37 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R38 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R39 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R40 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R41 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R42 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R43 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R44 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R45 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R46 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R49 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R50 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R51 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R52 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Footprint: Designator=R53 Old Footprint=0805-RES New Footprint=0603-RES
+Change Component Comment : Designator=C33 Old Comment=Cap 10nF 0805 C0G New Comment=Cap 10nF 0603 C0G
+Change Component Comment : Designator=C34 Old Comment=Cap 100pF 0603 C0G New Comment=Cap 0603 100pF 100V
+Change Component Comment : Designator=C28 Old Comment=Cap 0805 10uF New Comment=Cap 100nF 1206 C0G
+Change Component Comment : Designator=C2 Old Comment=Cap 0805 100nF 4 New Comment=Cap 100nF 0603 X7R
+Change Component Comment : Designator=C3 Old Comment=Cap 0805 100nF 4 New Comment=Cap 100nF 0603 X7R
+Change Component Comment : Designator=C4 Old Comment=Cap 0805 100nF 4 New Comment=Cap 100nF 0603 X7R
+Change Component Comment : Designator=C5 Old Comment=Cap 0805 100nF 4 New Comment=Cap 100nF 0603 X7R
+Change Component Comment : Designator=C6 Old Comment=Cap 0805 100nF 4 New Comment=Cap 100nF 0603 X7R
+Change Component Comment : Designator=C7 Old Comment=Cap 0805 100nF 4 New Comment=Cap 100nF 0603 X7R
+Change Component Comment : Designator=C8 Old Comment=Cap 0805 100nF 4 New Comment=Cap 100nF 0603 X7R
+Change Component Comment : Designator=C9 Old Comment=Cap 0805 100nF 4 New Comment=Cap 100nF 0603 X7R
+Change Component Comment : Designator=C10 Old Comment=Cap 0805 100nF 4 New Comment=Cap 100nF 0603 X7R
+Change Component Comment : Designator=C11 Old Comment=Cap 0805 100nF 4 New Comment=Cap 100nF 0603 X7R
+Change Component Comment : Designator=C12 Old Comment=Cap 0805 100nF 4 New Comment=Cap 100nF 0603 X7R
+Change Component Comment : Designator=C13 Old Comment=Cap 0805 100nF 4 New Comment=Cap 100nF 0603 X7R
+Change Component Comment : Designator=C23 Old Comment=Cap 0805 100nF 4 New Comment=Cap 100nF 0603 X7R
+Change Component Comment : Designator=C24 Old Comment=Cap 0805 100nF 4 New Comment=Cap 100nF 0603 X7R
+Change Component Comment : Designator=C26 Old Comment=Cap 0805 100nF 4 New Comment=Cap 100nF 0603 X7R
+Change Component Comment : Designator=C27 Old Comment=Cap 0805 100nF 4 New Comment=Cap 100nF 0603 X7R
+Change Component Comment : Designator=C29 Old Comment=Cap 0805 100nF 4 New Comment=Cap 100nF 0603 X7R
+Change Component Comment : Designator=C30 Old Comment=Cap 0805 100nF 4 New Comment=Cap 100nF 0603 X7R
+Change Component Comment : Designator=C35 Old Comment=Cap pol 220µF 10V New Comment=Cap pol 220µF 16V
+Change Component Comment : Designator=R24 Old Comment=Res 1M 1% 0805 New Comment=Res 1M 1% 0603
+Change Component Comment : Designator=R25 Old Comment=Res 1M 1% 0805 New Comment=Res 1M 1% 0603
+Change Component Comment : Designator=R27 Old Comment=Res 1M 1% 0805 New Comment=Res 1M 1% 0603
+Change Component Comment : Designator=R28 Old Comment=Res 1M 1% 0805 New Comment=Res 1M 1% 0603
+Change Component Comment : Designator=R30 Old Comment=Res 1M 1% 0805 New Comment=Res 1M 1% 0603
+Change Component Comment : Designator=R46 Old Comment=Res 1M 1% 0805 New Comment=Res 1M 1% 0603
+Change Component Comment : Designator=R31 Old Comment=Res 2.2k 1% 0805 New Comment=Res 2.2k 1% 0603
+Change Component Comment : Designator=R41 Old Comment=Res 3.3k 1% 0805 New Comment=Res 3.3k 1% 0603
+Change Component Comment : Designator=R29 Old Comment=Res 6.81k 1% 0805 New Comment=Res 6.81k 1% 0603
+Change Component Comment : Designator=R36 Old Comment=Res 6.81k 1% 0805 New Comment=Res 6.81k 1% 0603
+Change Component Comment : Designator=R51 Old Comment=Res 6.81k 1% 0805 New Comment=Res 6.81k 1% 0603
+Change Component Comment : Designator=R1 Old Comment=Res 10k 1% 0805 New Comment=Res 10k 1% 0603
+Change Component Comment : Designator=R2 Old Comment=Res 10k 1% 0805 New Comment=Res 10k 1% 0603
+Change Component Comment : Designator=R3 Old Comment=Res 10k 1% 0805 New Comment=Res 10k 1% 0603
+Change Component Comment : Designator=R5 Old Comment=Res 10k 1% 0805 New Comment=Res 10k 1% 0603
+Change Component Comment : Designator=R6 Old Comment=Res 10k 1% 0805 New Comment=Res 10k 1% 0603
+Change Component Comment : Designator=R7 Old Comment=Res 10k 1% 0805 New Comment=Res 10k 1% 0603
+Change Component Comment : Designator=R8 Old Comment=Res 10k 1% 0805 New Comment=Res 10k 1% 0603
+Change Component Comment : Designator=R9 Old Comment=Res 10k 1% 0805 New Comment=Res 10k 1% 0603
+Change Component Comment : Designator=R10 Old Comment=Res 10k 1% 0805 New Comment=Res 10k 1% 0603
+Change Component Comment : Designator=R12 Old Comment=Res 10k 1% 0805 New Comment=Res 10k 1% 0603
+Change Component Comment : Designator=R14 Old Comment=Res 10k 1% 0805 New Comment=Res 10k 1% 0603
+Change Component Comment : Designator=R16 Old Comment=Res 10k 1% 0805 New Comment=Res 10k 1% 0603
+Change Component Comment : Designator=R19 Old Comment=Res 10k 1% 0805 New Comment=Res 10k 1% 0603
+Change Component Comment : Designator=R20 Old Comment=Res 10k 1% 0805 New Comment=Res 10k 1% 0603
+Change Component Comment : Designator=R21 Old Comment=Res 10k 1% 0805 New Comment=Res 10k 1% 0603
+Change Component Comment : Designator=R23 Old Comment=Res 10k 1% 0805 New Comment=Res 10k 1% 0603
+Change Component Comment : Designator=R32 Old Comment=Res 10k 1% 0805 New Comment=Res 10k 1% 0603
+Change Component Comment : Designator=R37 Old Comment=Res 10k 1% 0805 New Comment=Res 10k 1% 0603
+Change Component Comment : Designator=R39 Old Comment=Res 10k 1% 0805 New Comment=Res 10k 1% 0603
+Change Component Comment : Designator=R42 Old Comment=Res 10k 1% 0805 New Comment=Res 10k 1% 0603
+Change Component Comment : Designator=R43 Old Comment=Res 10k 1% 0805 New Comment=Res 10k 1% 0603
+Change Component Comment : Designator=R44 Old Comment=Res 10k 1% 0805 New Comment=Res 10k 1% 0603
+Change Component Comment : Designator=R45 Old Comment=Res 10k 1% 0805 New Comment=Res 10k 1% 0603
+Change Component Comment : Designator=R50 Old Comment=Res 10k 1% 0805 New Comment=Res 10k 1% 0603
+Change Component Comment : Designator=R52 Old Comment=Res 10k 1% 0805 New Comment=Res 10k 1% 0603
+Change Component Comment : Designator=R38 Old Comment=Res 10k 1% 0805 New Comment=Res 22k 1% 0603
+Change Component Comment : Designator=R22 Old Comment=Res 10k 1% 0805 New Comment=Res 100k 1% 0603
+Change Component Comment : Designator=R4 Old Comment=Res 10R 0.1% 0805 New Comment=Res 10R 5% 0805
+Change Component Comment : Designator=R18 Old Comment=Res 10R 0.1% 0805 New Comment=Res 10R 5% 0805
+Change Component Comment : Designator=R53 Old Comment=Res 18k 1% 0805 New Comment=Res 20k 1% 0603
+Change Component Comment : Designator=R34 Old Comment=Res 20k 1% 0805 New Comment=Res 20k 1% 0603
+Change Component Comment : Designator=R40 Old Comment=Res 20k 1% 0805 New Comment=Res 20k 1% 0603
+Change Component Comment : Designator=R33 Old Comment=Res 22k 1% 0805 New Comment=Res 22k 1% 0603
+Change Component Comment : Designator=R49 Old Comment=Res 47k 1% 0805 New Comment=Res 47k 1% 0603
+Change Component Comment : Designator=R13 Old Comment=Res 100k 1% 0805 New Comment=Res 100k 1% 0603
+Change Component Comment : Designator=R15 Old Comment=Res 100k 1% 0805 New Comment=Res 100k 1% 0603
+Change Managed Component Library Link : Designator=C2 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D1608FB0-96ED-4C14-924A-CD033BF839EF New ItemGUID=3D190F22-1382-4E60-B06D-326BDA83A6D0 Old RevisionGUID=03076427-0791-4D38-9FE5-75E129C20E27 New RevisionGUID=93088924-7B4D-4C45-9B04-10AF7C09A44D
+Change Managed Component Library Link : Designator=C3 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D1608FB0-96ED-4C14-924A-CD033BF839EF New ItemGUID=3D190F22-1382-4E60-B06D-326BDA83A6D0 Old RevisionGUID=03076427-0791-4D38-9FE5-75E129C20E27 New RevisionGUID=93088924-7B4D-4C45-9B04-10AF7C09A44D
+Change Managed Component Library Link : Designator=C4 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D1608FB0-96ED-4C14-924A-CD033BF839EF New ItemGUID=3D190F22-1382-4E60-B06D-326BDA83A6D0 Old RevisionGUID=03076427-0791-4D38-9FE5-75E129C20E27 New RevisionGUID=93088924-7B4D-4C45-9B04-10AF7C09A44D
+Change Managed Component Library Link : Designator=C5 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D1608FB0-96ED-4C14-924A-CD033BF839EF New ItemGUID=3D190F22-1382-4E60-B06D-326BDA83A6D0 Old RevisionGUID=03076427-0791-4D38-9FE5-75E129C20E27 New RevisionGUID=93088924-7B4D-4C45-9B04-10AF7C09A44D
+Change Managed Component Library Link : Designator=C6 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D1608FB0-96ED-4C14-924A-CD033BF839EF New ItemGUID=3D190F22-1382-4E60-B06D-326BDA83A6D0 Old RevisionGUID=03076427-0791-4D38-9FE5-75E129C20E27 New RevisionGUID=93088924-7B4D-4C45-9B04-10AF7C09A44D
+Change Managed Component Library Link : Designator=C7 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D1608FB0-96ED-4C14-924A-CD033BF839EF New ItemGUID=3D190F22-1382-4E60-B06D-326BDA83A6D0 Old RevisionGUID=03076427-0791-4D38-9FE5-75E129C20E27 New RevisionGUID=93088924-7B4D-4C45-9B04-10AF7C09A44D
+Change Managed Component Library Link : Designator=C8 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D1608FB0-96ED-4C14-924A-CD033BF839EF New ItemGUID=3D190F22-1382-4E60-B06D-326BDA83A6D0 Old RevisionGUID=03076427-0791-4D38-9FE5-75E129C20E27 New RevisionGUID=93088924-7B4D-4C45-9B04-10AF7C09A44D
+Change Managed Component Library Link : Designator=C9 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D1608FB0-96ED-4C14-924A-CD033BF839EF New ItemGUID=3D190F22-1382-4E60-B06D-326BDA83A6D0 Old RevisionGUID=03076427-0791-4D38-9FE5-75E129C20E27 New RevisionGUID=93088924-7B4D-4C45-9B04-10AF7C09A44D
+Change Managed Component Library Link : Designator=C10 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D1608FB0-96ED-4C14-924A-CD033BF839EF New ItemGUID=3D190F22-1382-4E60-B06D-326BDA83A6D0 Old RevisionGUID=03076427-0791-4D38-9FE5-75E129C20E27 New RevisionGUID=93088924-7B4D-4C45-9B04-10AF7C09A44D
+Change Managed Component Library Link : Designator=C11 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D1608FB0-96ED-4C14-924A-CD033BF839EF New ItemGUID=3D190F22-1382-4E60-B06D-326BDA83A6D0 Old RevisionGUID=03076427-0791-4D38-9FE5-75E129C20E27 New RevisionGUID=93088924-7B4D-4C45-9B04-10AF7C09A44D
+Change Managed Component Library Link : Designator=C12 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D1608FB0-96ED-4C14-924A-CD033BF839EF New ItemGUID=3D190F22-1382-4E60-B06D-326BDA83A6D0 Old RevisionGUID=03076427-0791-4D38-9FE5-75E129C20E27 New RevisionGUID=93088924-7B4D-4C45-9B04-10AF7C09A44D
+Change Managed Component Library Link : Designator=C13 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D1608FB0-96ED-4C14-924A-CD033BF839EF New ItemGUID=3D190F22-1382-4E60-B06D-326BDA83A6D0 Old RevisionGUID=03076427-0791-4D38-9FE5-75E129C20E27 New RevisionGUID=93088924-7B4D-4C45-9B04-10AF7C09A44D
+Change Managed Component Library Link : Designator=C23 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D1608FB0-96ED-4C14-924A-CD033BF839EF New ItemGUID=3D190F22-1382-4E60-B06D-326BDA83A6D0 Old RevisionGUID=03076427-0791-4D38-9FE5-75E129C20E27 New RevisionGUID=93088924-7B4D-4C45-9B04-10AF7C09A44D
+Change Managed Component Library Link : Designator=C24 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D1608FB0-96ED-4C14-924A-CD033BF839EF New ItemGUID=3D190F22-1382-4E60-B06D-326BDA83A6D0 Old RevisionGUID=03076427-0791-4D38-9FE5-75E129C20E27 New RevisionGUID=93088924-7B4D-4C45-9B04-10AF7C09A44D
+Change Managed Component Library Link : Designator=C26 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D1608FB0-96ED-4C14-924A-CD033BF839EF New ItemGUID=3D190F22-1382-4E60-B06D-326BDA83A6D0 Old RevisionGUID=03076427-0791-4D38-9FE5-75E129C20E27 New RevisionGUID=93088924-7B4D-4C45-9B04-10AF7C09A44D
+Change Managed Component Library Link : Designator=C27 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D1608FB0-96ED-4C14-924A-CD033BF839EF New ItemGUID=3D190F22-1382-4E60-B06D-326BDA83A6D0 Old RevisionGUID=03076427-0791-4D38-9FE5-75E129C20E27 New RevisionGUID=93088924-7B4D-4C45-9B04-10AF7C09A44D
+Change Managed Component Library Link : Designator=C28 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=9E8F6E17-A75C-418B-B46A-A5DB4B7606E2 New ItemGUID=4FDC1E82-EE07-4E41-A77F-7755E32816F3 Old RevisionGUID=EF4331E7-9E65-4CAD-91F5-B07A1F54CA4B New RevisionGUID=A5791EC6-F4B5-45C8-9B34-99FB62A3F69C
+Change Managed Component Library Link : Designator=C29 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D1608FB0-96ED-4C14-924A-CD033BF839EF New ItemGUID=3D190F22-1382-4E60-B06D-326BDA83A6D0 Old RevisionGUID=03076427-0791-4D38-9FE5-75E129C20E27 New RevisionGUID=93088924-7B4D-4C45-9B04-10AF7C09A44D
+Change Managed Component Library Link : Designator=C30 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D1608FB0-96ED-4C14-924A-CD033BF839EF New ItemGUID=3D190F22-1382-4E60-B06D-326BDA83A6D0 Old RevisionGUID=03076427-0791-4D38-9FE5-75E129C20E27 New RevisionGUID=93088924-7B4D-4C45-9B04-10AF7C09A44D
+Change Managed Component Library Link : Designator=C33 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=9785D30B-E3DE-4D58-BB69-D178716B4392 New ItemGUID=5E275E4B-3B25-4E88-ABC7-C06C828FE73F Old RevisionGUID=86B30903-AFE6-4E15-9AE5-97A4AF4C5EA0 New RevisionGUID=DD5E0EBB-6413-4999-A794-7A3D8DCA5B24
+Change Managed Component Library Link : Designator=C34 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=78F5978C-5D22-4ED9-801D-58E5C24A2A56 New ItemGUID=B0605286-CA93-48D0-94F5-8FC6CCF82987 Old RevisionGUID=C87C3133-1B58-46EA-9DDC-9A5FE8E168B0 New RevisionGUID=b40f2b45-9933-431e-a8a8-8358fd46925b
+Change Managed Component Library Link : Designator=C35 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=7985AFF2-5A22-4F31-9BC4-47CDFE8F148D New ItemGUID=7056252D-A1A7-4632-9516-91AC9F4DA487 Old RevisionGUID=41A14564-CDEF-49B2-AA68-BD28F861D609 New RevisionGUID=B7B4FC9A-873D-4F2E-B795-4226F53632C4
+Change Managed Component Library Link : Designator=R1 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D37D2349-CCB4-4B4B-8A5F-1C8256B3B053 New ItemGUID=ECCAF81A-5F8C-4C22-BFC6-C68FF2B5AC90 Old RevisionGUID=8CF35ED5-3617-42EC-8194-D894A11B4CCC New RevisionGUID=F309CA29-F209-493C-BCC7-2C24B3510C39
+Change Managed Component Library Link : Designator=R2 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D37D2349-CCB4-4B4B-8A5F-1C8256B3B053 New ItemGUID=ECCAF81A-5F8C-4C22-BFC6-C68FF2B5AC90 Old RevisionGUID=8CF35ED5-3617-42EC-8194-D894A11B4CCC New RevisionGUID=F309CA29-F209-493C-BCC7-2C24B3510C39
+Change Managed Component Library Link : Designator=R3 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D37D2349-CCB4-4B4B-8A5F-1C8256B3B053 New ItemGUID=ECCAF81A-5F8C-4C22-BFC6-C68FF2B5AC90 Old RevisionGUID=8CF35ED5-3617-42EC-8194-D894A11B4CCC New RevisionGUID=F309CA29-F209-493C-BCC7-2C24B3510C39
+Change Managed Component Library Link : Designator=R4 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=E02FA6CB-3887-4815-A99E-2F166292076A New ItemGUID=F033958B-6651-4357-BA25-E58502454891 Old RevisionGUID=3EDCB11F-7664-4213-9765-2DA9D959DCAF New RevisionGUID=8DF8404A-D8D1-4AB1-9EBA-7D1CBC6A4B22
+Change Managed Component Library Link : Designator=R5 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D37D2349-CCB4-4B4B-8A5F-1C8256B3B053 New ItemGUID=ECCAF81A-5F8C-4C22-BFC6-C68FF2B5AC90 Old RevisionGUID=8CF35ED5-3617-42EC-8194-D894A11B4CCC New RevisionGUID=F309CA29-F209-493C-BCC7-2C24B3510C39
+Change Managed Component Library Link : Designator=R6 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D37D2349-CCB4-4B4B-8A5F-1C8256B3B053 New ItemGUID=ECCAF81A-5F8C-4C22-BFC6-C68FF2B5AC90 Old RevisionGUID=8CF35ED5-3617-42EC-8194-D894A11B4CCC New RevisionGUID=F309CA29-F209-493C-BCC7-2C24B3510C39
+Change Managed Component Library Link : Designator=R7 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D37D2349-CCB4-4B4B-8A5F-1C8256B3B053 New ItemGUID=ECCAF81A-5F8C-4C22-BFC6-C68FF2B5AC90 Old RevisionGUID=8CF35ED5-3617-42EC-8194-D894A11B4CCC New RevisionGUID=F309CA29-F209-493C-BCC7-2C24B3510C39
+Change Managed Component Library Link : Designator=R8 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D37D2349-CCB4-4B4B-8A5F-1C8256B3B053 New ItemGUID=ECCAF81A-5F8C-4C22-BFC6-C68FF2B5AC90 Old RevisionGUID=8CF35ED5-3617-42EC-8194-D894A11B4CCC New RevisionGUID=F309CA29-F209-493C-BCC7-2C24B3510C39
+Change Managed Component Library Link : Designator=R9 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D37D2349-CCB4-4B4B-8A5F-1C8256B3B053 New ItemGUID=ECCAF81A-5F8C-4C22-BFC6-C68FF2B5AC90 Old RevisionGUID=8CF35ED5-3617-42EC-8194-D894A11B4CCC New RevisionGUID=F309CA29-F209-493C-BCC7-2C24B3510C39
+Change Managed Component Library Link : Designator=R10 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D37D2349-CCB4-4B4B-8A5F-1C8256B3B053 New ItemGUID=ECCAF81A-5F8C-4C22-BFC6-C68FF2B5AC90 Old RevisionGUID=8CF35ED5-3617-42EC-8194-D894A11B4CCC New RevisionGUID=F309CA29-F209-493C-BCC7-2C24B3510C39
+Change Managed Component Library Link : Designator=R12 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D37D2349-CCB4-4B4B-8A5F-1C8256B3B053 New ItemGUID=ECCAF81A-5F8C-4C22-BFC6-C68FF2B5AC90 Old RevisionGUID=8CF35ED5-3617-42EC-8194-D894A11B4CCC New RevisionGUID=F309CA29-F209-493C-BCC7-2C24B3510C39
+Change Managed Component Library Link : Designator=R13 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=166A3AB7-0364-4E64-8504-A1747141ED58 New ItemGUID=98578727-8492-4065-9BED-1F86483F5520 Old RevisionGUID=D6728B5B-899F-4C16-83C5-A6E89B99728C New RevisionGUID=9DC101C8-B32B-45BC-A5DA-A04642F5983C
+Change Managed Component Library Link : Designator=R14 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D37D2349-CCB4-4B4B-8A5F-1C8256B3B053 New ItemGUID=ECCAF81A-5F8C-4C22-BFC6-C68FF2B5AC90 Old RevisionGUID=8CF35ED5-3617-42EC-8194-D894A11B4CCC New RevisionGUID=F309CA29-F209-493C-BCC7-2C24B3510C39
+Change Managed Component Library Link : Designator=R15 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=166A3AB7-0364-4E64-8504-A1747141ED58 New ItemGUID=98578727-8492-4065-9BED-1F86483F5520 Old RevisionGUID=D6728B5B-899F-4C16-83C5-A6E89B99728C New RevisionGUID=9DC101C8-B32B-45BC-A5DA-A04642F5983C
+Change Managed Component Library Link : Designator=R16 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D37D2349-CCB4-4B4B-8A5F-1C8256B3B053 New ItemGUID=ECCAF81A-5F8C-4C22-BFC6-C68FF2B5AC90 Old RevisionGUID=8CF35ED5-3617-42EC-8194-D894A11B4CCC New RevisionGUID=F309CA29-F209-493C-BCC7-2C24B3510C39
+Change Managed Component Library Link : Designator=R17 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=01F9174A-A9F6-40F5-BC1A-2BF468E47E19 New ItemGUID=C5508705-CF8A-436E-A539-B2A3A38F9305 Old RevisionGUID=2F7F01AC-E5EB-4B88-B830-7F0738F697FF New RevisionGUID=725A53A5-1B3C-43BC-84D2-C4E51DE7B1EB
+Change Managed Component Library Link : Designator=R18 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=E02FA6CB-3887-4815-A99E-2F166292076A New ItemGUID=F033958B-6651-4357-BA25-E58502454891 Old RevisionGUID=3EDCB11F-7664-4213-9765-2DA9D959DCAF New RevisionGUID=8DF8404A-D8D1-4AB1-9EBA-7D1CBC6A4B22
+Change Managed Component Library Link : Designator=R19 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D37D2349-CCB4-4B4B-8A5F-1C8256B3B053 New ItemGUID=ECCAF81A-5F8C-4C22-BFC6-C68FF2B5AC90 Old RevisionGUID=8CF35ED5-3617-42EC-8194-D894A11B4CCC New RevisionGUID=F309CA29-F209-493C-BCC7-2C24B3510C39
+Change Managed Component Library Link : Designator=R20 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D37D2349-CCB4-4B4B-8A5F-1C8256B3B053 New ItemGUID=ECCAF81A-5F8C-4C22-BFC6-C68FF2B5AC90 Old RevisionGUID=8CF35ED5-3617-42EC-8194-D894A11B4CCC New RevisionGUID=F309CA29-F209-493C-BCC7-2C24B3510C39
+Change Managed Component Library Link : Designator=R21 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D37D2349-CCB4-4B4B-8A5F-1C8256B3B053 New ItemGUID=ECCAF81A-5F8C-4C22-BFC6-C68FF2B5AC90 Old RevisionGUID=8CF35ED5-3617-42EC-8194-D894A11B4CCC New RevisionGUID=F309CA29-F209-493C-BCC7-2C24B3510C39
+Change Managed Component Library Link : Designator=R22 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D37D2349-CCB4-4B4B-8A5F-1C8256B3B053 New ItemGUID=98578727-8492-4065-9BED-1F86483F5520 Old RevisionGUID=8CF35ED5-3617-42EC-8194-D894A11B4CCC New RevisionGUID=9DC101C8-B32B-45BC-A5DA-A04642F5983C
+Change Managed Component Library Link : Designator=R23 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D37D2349-CCB4-4B4B-8A5F-1C8256B3B053 New ItemGUID=ECCAF81A-5F8C-4C22-BFC6-C68FF2B5AC90 Old RevisionGUID=8CF35ED5-3617-42EC-8194-D894A11B4CCC New RevisionGUID=F309CA29-F209-493C-BCC7-2C24B3510C39
+Change Managed Component Library Link : Designator=R24 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=61CE0618-939E-4454-BBBC-0E386DE555D6 New ItemGUID=09019751-99EB-49C9-ADB7-6E0A3AA98B90 Old RevisionGUID=8B957013-801A-4678-8969-62C6C666AE92 New RevisionGUID=62F8B360-47F2-4642-A317-933B9A217E99
+Change Managed Component Library Link : Designator=R25 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=61CE0618-939E-4454-BBBC-0E386DE555D6 New ItemGUID=09019751-99EB-49C9-ADB7-6E0A3AA98B90 Old RevisionGUID=8B957013-801A-4678-8969-62C6C666AE92 New RevisionGUID=62F8B360-47F2-4642-A317-933B9A217E99
+Change Managed Component Library Link : Designator=R27 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=61CE0618-939E-4454-BBBC-0E386DE555D6 New ItemGUID=09019751-99EB-49C9-ADB7-6E0A3AA98B90 Old RevisionGUID=8B957013-801A-4678-8969-62C6C666AE92 New RevisionGUID=62F8B360-47F2-4642-A317-933B9A217E99
+Change Managed Component Library Link : Designator=R28 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=61CE0618-939E-4454-BBBC-0E386DE555D6 New ItemGUID=09019751-99EB-49C9-ADB7-6E0A3AA98B90 Old RevisionGUID=8B957013-801A-4678-8969-62C6C666AE92 New RevisionGUID=62F8B360-47F2-4642-A317-933B9A217E99
+Change Managed Component Library Link : Designator=R29 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=640447FF-3003-4DDF-A2AC-3E23C50E3AB0 New ItemGUID=EC76ED29-FA94-43C0-93D0-75B3AC119D13 Old RevisionGUID=180AD3B4-7A3E-4AD2-AE10-3510ED4F32F2 New RevisionGUID=C5D1CE53-9E5E-4C1C-AAB8-841BC578BC90
+Change Managed Component Library Link : Designator=R30 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=61CE0618-939E-4454-BBBC-0E386DE555D6 New ItemGUID=09019751-99EB-49C9-ADB7-6E0A3AA98B90 Old RevisionGUID=8B957013-801A-4678-8969-62C6C666AE92 New RevisionGUID=62F8B360-47F2-4642-A317-933B9A217E99
+Change Managed Component Library Link : Designator=R31 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=98C5537E-07D7-486E-80C5-090FD5D597FD New ItemGUID=F19CC683-754B-41A8-9C21-5B3F13D9E17E Old RevisionGUID=63BA69AB-9684-4C1F-BEB3-376CE546A053 New RevisionGUID=70BF9B9B-55C5-4B24-B2FD-71AB237335EA
+Change Managed Component Library Link : Designator=R32 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D37D2349-CCB4-4B4B-8A5F-1C8256B3B053 New ItemGUID=ECCAF81A-5F8C-4C22-BFC6-C68FF2B5AC90 Old RevisionGUID=8CF35ED5-3617-42EC-8194-D894A11B4CCC New RevisionGUID=F309CA29-F209-493C-BCC7-2C24B3510C39
+Change Managed Component Library Link : Designator=R33 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=A8ACD3CD-19D0-42A2-938C-28656DAE6065 New ItemGUID=657E666B-3AF2-4F17-ACAC-BFE1D4A0417D Old RevisionGUID=930BCA4A-1B12-41EC-9EDA-939DEFC0CC41 New RevisionGUID=90B8E819-D44D-4213-B198-9537BD50B554
+Change Managed Component Library Link : Designator=R34 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=65A45318-9B82-45BD-8299-AC4C2E6DD5DE New ItemGUID=1482C168-4FF1-4872-AEF6-4FE74329471F Old RevisionGUID=AFD86825-58EB-4ED9-AF11-E4E515014A11 New RevisionGUID=A80A8A72-C686-44FD-8B03-6C00F2C40596
+Change Managed Component Library Link : Designator=R36 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=640447FF-3003-4DDF-A2AC-3E23C50E3AB0 New ItemGUID=EC76ED29-FA94-43C0-93D0-75B3AC119D13 Old RevisionGUID=180AD3B4-7A3E-4AD2-AE10-3510ED4F32F2 New RevisionGUID=C5D1CE53-9E5E-4C1C-AAB8-841BC578BC90
+Change Managed Component Library Link : Designator=R37 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D37D2349-CCB4-4B4B-8A5F-1C8256B3B053 New ItemGUID=ECCAF81A-5F8C-4C22-BFC6-C68FF2B5AC90 Old RevisionGUID=8CF35ED5-3617-42EC-8194-D894A11B4CCC New RevisionGUID=F309CA29-F209-493C-BCC7-2C24B3510C39
+Change Managed Component Library Link : Designator=R38 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D37D2349-CCB4-4B4B-8A5F-1C8256B3B053 New ItemGUID=657E666B-3AF2-4F17-ACAC-BFE1D4A0417D Old RevisionGUID=8CF35ED5-3617-42EC-8194-D894A11B4CCC New RevisionGUID=90B8E819-D44D-4213-B198-9537BD50B554
+Change Managed Component Library Link : Designator=R39 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D37D2349-CCB4-4B4B-8A5F-1C8256B3B053 New ItemGUID=ECCAF81A-5F8C-4C22-BFC6-C68FF2B5AC90 Old RevisionGUID=8CF35ED5-3617-42EC-8194-D894A11B4CCC New RevisionGUID=F309CA29-F209-493C-BCC7-2C24B3510C39
+Change Managed Component Library Link : Designator=R40 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=65A45318-9B82-45BD-8299-AC4C2E6DD5DE New ItemGUID=1482C168-4FF1-4872-AEF6-4FE74329471F Old RevisionGUID=AFD86825-58EB-4ED9-AF11-E4E515014A11 New RevisionGUID=A80A8A72-C686-44FD-8B03-6C00F2C40596
+Change Managed Component Library Link : Designator=R41 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=AA01F920-461C-43C3-9526-69E4E4A1CE74 New ItemGUID=4E153F2B-6F8E-4AC3-8384-65ECD379AA04 Old RevisionGUID=2B73EB86-5A05-4A82-A4B4-3C0D8E10EBF9 New RevisionGUID=54715A10-21F5-499E-A61B-07E7F609482D
+Change Managed Component Library Link : Designator=R42 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D37D2349-CCB4-4B4B-8A5F-1C8256B3B053 New ItemGUID=ECCAF81A-5F8C-4C22-BFC6-C68FF2B5AC90 Old RevisionGUID=8CF35ED5-3617-42EC-8194-D894A11B4CCC New RevisionGUID=F309CA29-F209-493C-BCC7-2C24B3510C39
+Change Managed Component Library Link : Designator=R43 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D37D2349-CCB4-4B4B-8A5F-1C8256B3B053 New ItemGUID=ECCAF81A-5F8C-4C22-BFC6-C68FF2B5AC90 Old RevisionGUID=8CF35ED5-3617-42EC-8194-D894A11B4CCC New RevisionGUID=F309CA29-F209-493C-BCC7-2C24B3510C39
+Change Managed Component Library Link : Designator=R44 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D37D2349-CCB4-4B4B-8A5F-1C8256B3B053 New ItemGUID=ECCAF81A-5F8C-4C22-BFC6-C68FF2B5AC90 Old RevisionGUID=8CF35ED5-3617-42EC-8194-D894A11B4CCC New RevisionGUID=F309CA29-F209-493C-BCC7-2C24B3510C39
+Change Managed Component Library Link : Designator=R45 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D37D2349-CCB4-4B4B-8A5F-1C8256B3B053 New ItemGUID=ECCAF81A-5F8C-4C22-BFC6-C68FF2B5AC90 Old RevisionGUID=8CF35ED5-3617-42EC-8194-D894A11B4CCC New RevisionGUID=F309CA29-F209-493C-BCC7-2C24B3510C39
+Change Managed Component Library Link : Designator=R46 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=61CE0618-939E-4454-BBBC-0E386DE555D6 New ItemGUID=09019751-99EB-49C9-ADB7-6E0A3AA98B90 Old RevisionGUID=8B957013-801A-4678-8969-62C6C666AE92 New RevisionGUID=62F8B360-47F2-4642-A317-933B9A217E99
+Change Managed Component Library Link : Designator=R49 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=ADBCBBC9-077D-4B89-99E4-1B24261F4B9A New ItemGUID=F75ABABA-B612-4C51-938F-FB82A7551867 Old RevisionGUID=1D6C06AC-100B-4D3A-B040-C109BDD730F5 New RevisionGUID=0A269BF1-71E8-47FF-962F-DFF985940905
+Change Managed Component Library Link : Designator=R50 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D37D2349-CCB4-4B4B-8A5F-1C8256B3B053 New ItemGUID=ECCAF81A-5F8C-4C22-BFC6-C68FF2B5AC90 Old RevisionGUID=8CF35ED5-3617-42EC-8194-D894A11B4CCC New RevisionGUID=F309CA29-F209-493C-BCC7-2C24B3510C39
+Change Managed Component Library Link : Designator=R51 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=640447FF-3003-4DDF-A2AC-3E23C50E3AB0 New ItemGUID=EC76ED29-FA94-43C0-93D0-75B3AC119D13 Old RevisionGUID=180AD3B4-7A3E-4AD2-AE10-3510ED4F32F2 New RevisionGUID=C5D1CE53-9E5E-4C1C-AAB8-841BC578BC90
+Change Managed Component Library Link : Designator=R52 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=D37D2349-CCB4-4B4B-8A5F-1C8256B3B053 New ItemGUID=ECCAF81A-5F8C-4C22-BFC6-C68FF2B5AC90 Old RevisionGUID=8CF35ED5-3617-42EC-8194-D894A11B4CCC New RevisionGUID=F309CA29-F209-493C-BCC7-2C24B3510C39
+Change Managed Component Library Link : Designator=R53 Old VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f New VaultGUID=c8a60b5b-31d0-42a9-bda1-6c263813662f Old ItemGUID=E967B2C1-E148-40CE-A1A5-1D813C42867F New ItemGUID=1482C168-4FF1-4872-AEF6-4FE74329471F Old RevisionGUID=7F52CC1C-7C96-40AA-B534-E8E494A27740 New RevisionGUID=A80A8A72-C686-44FD-8B03-6C00F2C40596
+Change component parameters: Designator = "C2" ("C2"); Footprint = "0805-CAP"; UniqueID = "\NLDMQRBX" ("\NLDMQRBX")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "900µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum operating temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "0805-CAP"; UniqueID = "\BIGBGUTO" ("\BIGBGUTO")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "900µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum operating temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "0805-CAP"; UniqueID = "\TQNFPFSZ" ("\TQNFPFSZ")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "900µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum operating temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "0805-CAP"; UniqueID = "\GZBLRGNO" ("\GZBLRGNO")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "900µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum operating temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "0805-CAP"; UniqueID = "\TLRGPFTK" ("\TLRGPFTK")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "900µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum operating temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "0805-CAP"; UniqueID = "\RSSEXYUQ" ("\RSSEXYUQ")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "900µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum operating temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "0805-CAP"; UniqueID = "\TVUOSFGU" ("\TVUOSFGU")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "900µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum operating temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "0805-CAP"; UniqueID = "\ZQSPOMAR" ("\ZQSPOMAR")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "900µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum operating temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "0805-CAP"; UniqueID = "\MSWCCAQJ" ("\MSWCCAQJ")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "900µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum operating temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C11"); Footprint = "0805-CAP"; UniqueID = "\HPZKIHKS" ("\HPZKIHKS")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "900µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum operating temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "0805-CAP"; UniqueID = "\WNKZAJEF" ("\WNKZAJEF")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "900µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum operating temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13" ("C13"); Footprint = "0805-CAP"; UniqueID = "\XXPTSDIO" ("\XXPTSDIO")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "900µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum operating temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23" ("C23"); Footprint = "0805-CAP"; UniqueID = "\ZNJLOYUF" ("\ZNJLOYUF")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "900µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum operating temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24" ("C24"); Footprint = "0805-CAP"; UniqueID = "\QDYRSDGC" ("\QDYRSDGC")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "900µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum operating temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C26" ("C26"); Footprint = "0805-CAP"; UniqueID = "\USOUEESJ" ("\USOUEESJ")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "900µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum operating temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C27" ("C27"); Footprint = "0805-CAP"; UniqueID = "\SSQLYZKW" ("\SSQLYZKW")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "900µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum operating temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C28" ("C28"); Footprint = "0805-CAP"; UniqueID = "\HUNAQOOJ" ("\HUNAQOOJ")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "C0G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum operating temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C29" ("C29"); Footprint = "0805-CAP"; UniqueID = "\AJGTOQPC" ("\AJGTOQPC")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "900µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum operating temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C30" ("C30"); Footprint = "0805-CAP"; UniqueID = "\KAXDLCCY" ("\KAXDLCCY")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "900µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum operating temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C33" ("C33"); Footprint = "0805-CAP"; UniqueID = "\JNZXFESC" ("\JNZXFESC")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "C0G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "900µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum operating temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C34" ("C34"); Footprint = "0603-CAP"; UniqueID = "\KCDLAMVP" ("\KCDLAMVP")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/18192/getdatasheetpartid-308025-18192620.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/18192/getdatasheetpartid-308025-18192620.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "Cap 0603 100pF 100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "C0G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0,10000, 10=0,02700, 100=0,01900, 500=0,01600, 1000=0,01200, 4000=0,00900 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "main.SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "170146"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C35" ("C35"); Footprint = "E-CAP, SMT, diameter 6.3mm, height 7.7mm"; UniqueID = "\HZHLMAKH" ("\HZHLMAKH")
+Change component parameters (AddParameter): Name = "+ Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "- Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "220µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifetime @ Max. Temp. (hours)"; Value = "2000h"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum operating temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple current (RMS)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "0805-RES"; UniqueID = "\QMEQZRXO" ("\QMEQZRXO")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "0805-RES"; UniqueID = "\UMBPQZST" ("\UMBPQZST")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "0805-RES"; UniqueID = "\DNJDPOUI" ("\DNJDPOUI")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "0805-RES"; UniqueID = "\LRXNRZWJ" ("\LRXNRZWJ")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "150V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "125mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "0805-RES"; UniqueID = "\OGRUKEFM" ("\OGRUKEFM")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "0805-RES"; UniqueID = "\UETDBTXW" ("\UETDBTXW")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "0805-RES"; UniqueID = "\YJTBUDEL" ("\YJTBUDEL")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "0805-RES"; UniqueID = "\FEDWLGAR" ("\FEDWLGAR")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "0805-RES"; UniqueID = "\XLCZLUKU" ("\XLCZLUKU")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "0805-RES"; UniqueID = "\OIGBVDIA" ("\OIGBVDIA")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "0805-RES"; UniqueID = "\ZZKMILVS" ("\ZZKMILVS")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("R13"); Footprint = "0805-RES"; UniqueID = "\GTVWXFXX" ("\GTVWXFXX")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thin film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R14"); Footprint = "0805-RES"; UniqueID = "\OPOBTTUO" ("\OPOBTTUO")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15" ("R15"); Footprint = "0805-RES"; UniqueID = "\TRPLJQHG" ("\TRPLJQHG")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thin film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16" ("R16"); Footprint = "0805-RES"; UniqueID = "\JWJZOIMF" ("\JWJZOIMF")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17" ("R17"); Footprint = "0805-RES"; UniqueID = "\ZAHGLUNJ" ("\ZAHGLUNJ")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "150V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "125mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "29.4k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18" ("R18"); Footprint = "0805-RES"; UniqueID = "\HLERNOOV" ("\HLERNOOV")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "150V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "125mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R19" ("R19"); Footprint = "0805-RES"; UniqueID = "\QERPYKJN" ("\QERPYKJN")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R20" ("R20"); Footprint = "0805-RES"; UniqueID = "\NTNAKMIG" ("\NTNAKMIG")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R21" ("R21"); Footprint = "0805-RES"; UniqueID = "\LVHOIOOX" ("\LVHOIOOX")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R22" ("R22"); Footprint = "0805-RES"; UniqueID = "\HBGFWOQA" ("\HBGFWOQA")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thin film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R23" ("R23"); Footprint = "0805-RES"; UniqueID = "\QHCIABYE" ("\QHCIABYE")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R24" ("R24"); Footprint = "0805-RES"; UniqueID = "\PJVMVJVI" ("\PJVMVJVI")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thin film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "1M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R25" ("R25"); Footprint = "0805-RES"; UniqueID = "\YRPPUJFX" ("\YRPPUJFX")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thin film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "1M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R27" ("R27"); Footprint = "0805-RES"; UniqueID = "\RBFRYUGR" ("\RBFRYUGR")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thin film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "1M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R28" ("R28"); Footprint = "0805-RES"; UniqueID = "\DMNSEUEF" ("\DMNSEUEF")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thin film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "1M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R29" ("R29"); Footprint = "0805-RES"; UniqueID = "\YURQJJIO" ("\YURQJJIO")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thin film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "6.81k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R30" ("R30"); Footprint = "0805-RES"; UniqueID = "\FWVGJWRT" ("\FWVGJWRT")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thin film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "1M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R31" ("R31"); Footprint = "0805-RES"; UniqueID = "\UYBKRLZA" ("\UYBKRLZA")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thin film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "2.2k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R32" ("R32"); Footprint = "0805-RES"; UniqueID = "\CQZADYBY" ("\CQZADYBY")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R33" ("R33"); Footprint = "0805-RES"; UniqueID = "\ENTCBPTW" ("\ENTCBPTW")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thin film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "22k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R34" ("R34"); Footprint = "0805-RES"; UniqueID = "\WXWYYOCH" ("\WXWYYOCH")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thin film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "20k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R36" ("R36"); Footprint = "0805-RES"; UniqueID = "\YXJCSBTI" ("\YXJCSBTI")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thin film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "6.81k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R37" ("R37"); Footprint = "0805-RES"; UniqueID = "\NXIPDGAX" ("\NXIPDGAX")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R38" ("R38"); Footprint = "0805-RES"; UniqueID = "\VCPYPVNA" ("\VCPYPVNA")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thin film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "22k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R39" ("R39"); Footprint = "0805-RES"; UniqueID = "\DDAOHWRF" ("\DDAOHWRF")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R40" ("R40"); Footprint = "0805-RES"; UniqueID = "\TZCMQZJK" ("\TZCMQZJK")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thin film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "20k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R41" ("R41"); Footprint = "0805-RES"; UniqueID = "\TZBUYXBM" ("\TZBUYXBM")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thin film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "3.3k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R42" ("R42"); Footprint = "0805-RES"; UniqueID = "\ULENAXYF" ("\ULENAXYF")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R43" ("R43"); Footprint = "0805-RES"; UniqueID = "\MIMPORDO" ("\MIMPORDO")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R44" ("R44"); Footprint = "0805-RES"; UniqueID = "\WEJCYDAV" ("\WEJCYDAV")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R45" ("R45"); Footprint = "0805-RES"; UniqueID = "\BPBPXRBT" ("\BPBPXRBT")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R46" ("R46"); Footprint = "0805-RES"; UniqueID = "\JXYSDIOG" ("\JXYSDIOG")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thin film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "1M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R49" ("R49"); Footprint = "0805-RES"; UniqueID = "\JBVVPEST" ("\JBVVPEST")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thin film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "47k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R50" ("R50"); Footprint = "0805-RES"; UniqueID = "\QHHYHJGZ" ("\QHHYHJGZ")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R51" ("R51"); Footprint = "0805-RES"; UniqueID = "\KCKOIYTF" ("\KCKOIYTF")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thin film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "6.81k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R52" ("R52"); Footprint = "0805-RES"; UniqueID = "\CLIQZLZT" ("\CLIQZLZT")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thick film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R53" ("R53"); Footprint = "0805-RES"; UniqueID = "\MCQGOMTV" ("\MCQGOMTV")
+Change component parameters (AddParameter): Name = "Composition"; Value = "Thin film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum working voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "20k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient (ppm/°C)"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (+-)"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=C19(1206-CAP)
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "C0G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum operating temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size (Imperial)"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance (+-)"; Value = "5%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=VCC Pin=C12-1
+Added Pin To Net: NetName=NetC36_1 Pin=C28-2
+Added Pin To Net: NetName=NetC28_1 Pin=D13-3
+Added Pin To Net: NetName=GND Pin=R22-2
+Added Pin To Net: NetName=NetC28_1 Pin=R47-2
+Change Net Name : Old Net Name=NetC36_1 New Net Name=NetC28_2
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=C10-1
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=C12-2
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC19_1 Pin=C19-1
+Added Pin To Net: NetName=NetC19_1 Pin=U1-6
+Added Pin To Net: NetName=NetC19_1 Pin=U1-7
+Added Net: Name=NetC19_1
+Added Pin To Net: NetName=NetC19_2 Pin=C19-2
+Added Pin To Net: NetName=NetC19_2 Pin=R22-1
+Added Pin To Net: NetName=NetC19_2 Pin=R26-1
+Added Net: Name=NetC19_2

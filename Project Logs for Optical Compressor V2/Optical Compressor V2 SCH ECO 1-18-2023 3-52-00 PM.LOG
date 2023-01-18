@@ -1,0 +1,10 @@
+Change Value of Parameter Composition in Part R18 Old=Thin film New=Thick film
+Change Value of Parameter Composition in Part R4 Old=Thin film New=Thick film
+Change Value of Parameter Maximum working voltage in Part R18 Old=100V New=150V
+Change Value of Parameter Maximum working voltage in Part R4 Old=100V New=150V
+Change Value of Parameter Temperature Coefficient (ppm/°C) in Part R4 Old=25 New=200
+Change Value of Parameter Temperature Coefficient (ppm/°C) in Part R18 Old=25 New=200
+Change Value of Parameter Tolerance (+-) in Part R18 Old=0.1% New=5%
+Change Value of Parameter Tolerance (+-) in Part R4 Old=0.1% New=5%
+Update Managed Component R4 From CMP-04716-2[Res 10R 0.1% 0805] To CMP-04716-2[Res 10R 5% 0805] in Optical Compressor V2.SchDoc
+Update Managed Component R18 From CMP-04716-2[Res 10R 0.1% 0805] To CMP-04716-2[Res 10R 5% 0805] in Optical Compressor V2.SchDoc

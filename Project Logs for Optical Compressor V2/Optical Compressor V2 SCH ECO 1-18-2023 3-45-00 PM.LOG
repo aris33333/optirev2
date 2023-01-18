@@ -1,0 +1,2 @@
+Change Value of Parameter Rated Voltage in Part C35 Old=10V New=16V
+Update Managed Component C35 From CMP-00098-4[Cap pol 220µF 10V] To CMP-00098-4[Cap pol 220µF 16V] in Optical Compressor V2.SchDoc

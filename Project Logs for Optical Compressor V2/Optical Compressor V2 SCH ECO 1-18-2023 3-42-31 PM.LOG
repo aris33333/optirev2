@@ -1,0 +1,26 @@
+Removed Parameter Maximum operating temperature:125°C from Part C34
+Removed Parameter Rated Voltage:50V from Part C34
+Removed Parameter Size (Imperial):0603 from Part C34
+Removed Parameter Tolerance (+-):5% from Part C34
+Change Value of Parameter Height in Part C34 Old=900µm New=0.8mm
+Added Parameter Case/Package=0603 to Part C34
+Added Parameter ComponentLink1Description=https://datasheet.ciiva.com/18192/getdatasheetpartid-308025-18192620.pdf?src-supplier=Verical to Part C34
+Added Parameter ComponentLink1URL=https://datasheet.ciiva.com/18192/getdatasheetpartid-308025-18192620.pdf?src-supplier=Verical to Part C34
+Added Parameter Depth=0.8mm to Part C34
+Added Parameter Design Item ID=Cap 0603 100pF 100V to Part C34
+Added Parameter Dielectric Material=Ceramic to Part C34
+Added Parameter Lead Free=Lead Free to Part C34
+Added Parameter Length=1.6mm to Part C34
+Added Parameter Max Operating Temperature=125°C to Part C34
+Added Parameter Min Operating Temperature=-55°C to Part C34
+Added Parameter Mount=Surface Mount to Part C34
+Added Parameter Packaging=Tape and Reel to Part C34
+Added Parameter Pricing 1=1=0,10000, 10=0,02700, 100=0,01900, 500=0,01600, 1000=0,01200, 4000=0,00900 (USD) to Part C34
+Added Parameter Radiation Hardening=No to Part C34
+Added Parameter RoHS=Yes to Part C34
+Added Parameter Source=main.SchLib to Part C34
+Added Parameter Stock 1=170146 to Part C34
+Added Parameter Tolerance=5% to Part C34
+Added Parameter Value=100pF to Part C34
+Added Parameter Voltage Rating (DC)=100V to Part C34
+Update Managed Component C34 From CMP-019-0172-14[Cap 100pF 0603 C0G] To CMP-019-0172-14[Cap 0603 100pF 100V] in Optical Compressor V2.SchDoc

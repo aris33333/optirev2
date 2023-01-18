@@ -1,0 +1,9 @@
+Change Value of Parameter Temperature Coefficient (ppm/°C) in Part R36 Old=25 New=50
+Change Value of Parameter Temperature Coefficient (ppm/°C) in Part R51 Old=25 New=50
+Change Value of Parameter Temperature Coefficient (ppm/°C) in Part R29 Old=25 New=50
+Change Value of Parameter Tolerance (+-) in Part R51 Old=0.1% New=1%
+Change Value of Parameter Tolerance (+-) in Part R29 Old=0.1% New=1%
+Change Value of Parameter Tolerance (+-) in Part R36 Old=0.1% New=1%
+Update Managed Component R29 From CMP-03288-2[Res 6.81k 0.1% 0603] To CMP-03288-2[Res 6.81k 1% 0603] in Optical Compressor V2.SchDoc
+Update Managed Component R36 From CMP-03288-2[Res 6.81k 0.1% 0603] To CMP-03288-2[Res 6.81k 1% 0603] in Optical Compressor V2.SchDoc
+Update Managed Component R51 From CMP-03288-2[Res 6.81k 0.1% 0603] To CMP-03288-2[Res 6.81k 1% 0603] in Optical Compressor V2.SchDoc

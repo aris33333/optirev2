@@ -1,0 +1,1275 @@
+Removed Parameter Maximum working voltage:150V from Part R1
+Removed Parameter Maximum working voltage:150V from Part R2
+Removed Parameter Maximum working voltage:150V from Part R3
+Removed Parameter Maximum working voltage:150V from Part R5
+Removed Parameter Maximum working voltage:150V from Part R6
+Removed Parameter Maximum working voltage:150V from Part R7
+Removed Parameter Maximum working voltage:150V from Part R8
+Removed Parameter Maximum working voltage:150V from Part R9
+Removed Parameter Maximum working voltage:150V from Part R10
+Removed Parameter Maximum working voltage:150V from Part R12
+Removed Parameter Maximum working voltage:150V from Part R14
+Removed Parameter Maximum working voltage:150V from Part R16
+Removed Parameter Maximum working voltage:150V from Part R19
+Removed Parameter Maximum working voltage:150V from Part R20
+Removed Parameter Maximum working voltage:150V from Part R21
+Removed Parameter Maximum working voltage:150V from Part R23
+Removed Parameter Maximum working voltage:150V from Part R32
+Removed Parameter Maximum working voltage:150V from Part R37
+Removed Parameter Maximum working voltage:150V from Part R39
+Removed Parameter Maximum working voltage:150V from Part R42
+Removed Parameter Maximum working voltage:150V from Part R43
+Removed Parameter Maximum working voltage:150V from Part R44
+Removed Parameter Maximum working voltage:150V from Part R45
+Removed Parameter Maximum working voltage:150V from Part R50
+Removed Parameter Maximum working voltage:150V from Part R52
+Removed Parameter Power:125mW from Part R1
+Removed Parameter Power:125mW from Part R2
+Removed Parameter Power:125mW from Part R3
+Removed Parameter Power:125mW from Part R5
+Removed Parameter Power:125mW from Part R6
+Removed Parameter Power:125mW from Part R7
+Removed Parameter Power:125mW from Part R8
+Removed Parameter Power:125mW from Part R9
+Removed Parameter Power:125mW from Part R10
+Removed Parameter Power:125mW from Part R12
+Removed Parameter Power:125mW from Part R14
+Removed Parameter Power:125mW from Part R16
+Removed Parameter Power:125mW from Part R19
+Removed Parameter Power:125mW from Part R20
+Removed Parameter Power:125mW from Part R21
+Removed Parameter Power:125mW from Part R23
+Removed Parameter Power:125mW from Part R32
+Removed Parameter Power:125mW from Part R37
+Removed Parameter Power:125mW from Part R39
+Removed Parameter Power:125mW from Part R42
+Removed Parameter Power:125mW from Part R43
+Removed Parameter Power:125mW from Part R44
+Removed Parameter Power:125mW from Part R45
+Removed Parameter Power:125mW from Part R50
+Removed Parameter Power:125mW from Part R52
+Removed Parameter Size (Imperial):0805 from Part R1
+Removed Parameter Size (Imperial):0805 from Part R2
+Removed Parameter Size (Imperial):0805 from Part R3
+Removed Parameter Size (Imperial):0805 from Part R5
+Removed Parameter Size (Imperial):0805 from Part R6
+Removed Parameter Size (Imperial):0805 from Part R7
+Removed Parameter Size (Imperial):0805 from Part R8
+Removed Parameter Size (Imperial):0805 from Part R9
+Removed Parameter Size (Imperial):0805 from Part R10
+Removed Parameter Size (Imperial):0805 from Part R12
+Removed Parameter Size (Imperial):0805 from Part R14
+Removed Parameter Size (Imperial):0805 from Part R16
+Removed Parameter Size (Imperial):0805 from Part R19
+Removed Parameter Size (Imperial):0805 from Part R20
+Removed Parameter Size (Imperial):0805 from Part R21
+Removed Parameter Size (Imperial):0805 from Part R23
+Removed Parameter Size (Imperial):0805 from Part R32
+Removed Parameter Size (Imperial):0805 from Part R37
+Removed Parameter Size (Imperial):0805 from Part R39
+Removed Parameter Size (Imperial):0805 from Part R42
+Removed Parameter Size (Imperial):0805 from Part R43
+Removed Parameter Size (Imperial):0805 from Part R44
+Removed Parameter Size (Imperial):0805 from Part R45
+Removed Parameter Size (Imperial):0805 from Part R50
+Removed Parameter Size (Imperial):0805 from Part R52
+Removed Parameter Temperature Coefficient (ppm/°C):50 from Part R1
+Removed Parameter Temperature Coefficient (ppm/°C):50 from Part R2
+Removed Parameter Temperature Coefficient (ppm/°C):50 from Part R3
+Removed Parameter Temperature Coefficient (ppm/°C):50 from Part R5
+Removed Parameter Temperature Coefficient (ppm/°C):50 from Part R6
+Removed Parameter Temperature Coefficient (ppm/°C):50 from Part R7
+Removed Parameter Temperature Coefficient (ppm/°C):50 from Part R8
+Removed Parameter Temperature Coefficient (ppm/°C):50 from Part R9
+Removed Parameter Temperature Coefficient (ppm/°C):50 from Part R10
+Removed Parameter Temperature Coefficient (ppm/°C):50 from Part R12
+Removed Parameter Temperature Coefficient (ppm/°C):50 from Part R14
+Removed Parameter Temperature Coefficient (ppm/°C):50 from Part R16
+Removed Parameter Temperature Coefficient (ppm/°C):50 from Part R19
+Removed Parameter Temperature Coefficient (ppm/°C):50 from Part R20
+Removed Parameter Temperature Coefficient (ppm/°C):50 from Part R21
+Removed Parameter Temperature Coefficient (ppm/°C):50 from Part R23
+Removed Parameter Temperature Coefficient (ppm/°C):50 from Part R32
+Removed Parameter Temperature Coefficient (ppm/°C):50 from Part R37
+Removed Parameter Temperature Coefficient (ppm/°C):50 from Part R39
+Removed Parameter Temperature Coefficient (ppm/°C):50 from Part R42
+Removed Parameter Temperature Coefficient (ppm/°C):50 from Part R43
+Removed Parameter Temperature Coefficient (ppm/°C):50 from Part R44
+Removed Parameter Temperature Coefficient (ppm/°C):50 from Part R45
+Removed Parameter Temperature Coefficient (ppm/°C):50 from Part R50
+Removed Parameter Temperature Coefficient (ppm/°C):50 from Part R52
+Removed Parameter Tolerance (+-):1% from Part R1
+Removed Parameter Tolerance (+-):1% from Part R2
+Removed Parameter Tolerance (+-):1% from Part R3
+Removed Parameter Tolerance (+-):1% from Part R5
+Removed Parameter Tolerance (+-):1% from Part R6
+Removed Parameter Tolerance (+-):1% from Part R7
+Removed Parameter Tolerance (+-):1% from Part R8
+Removed Parameter Tolerance (+-):1% from Part R9
+Removed Parameter Tolerance (+-):1% from Part R10
+Removed Parameter Tolerance (+-):1% from Part R12
+Removed Parameter Tolerance (+-):1% from Part R14
+Removed Parameter Tolerance (+-):1% from Part R16
+Removed Parameter Tolerance (+-):1% from Part R19
+Removed Parameter Tolerance (+-):1% from Part R20
+Removed Parameter Tolerance (+-):1% from Part R21
+Removed Parameter Tolerance (+-):1% from Part R23
+Removed Parameter Tolerance (+-):1% from Part R32
+Removed Parameter Tolerance (+-):1% from Part R37
+Removed Parameter Tolerance (+-):1% from Part R39
+Removed Parameter Tolerance (+-):1% from Part R42
+Removed Parameter Tolerance (+-):1% from Part R43
+Removed Parameter Tolerance (+-):1% from Part R44
+Removed Parameter Tolerance (+-):1% from Part R45
+Removed Parameter Tolerance (+-):1% from Part R50
+Removed Parameter Tolerance (+-):1% from Part R52
+Change Value of Parameter Composition in Part R21 Old=Thin film New=Thin Film
+Change Value of Parameter Composition in Part R20 Old=Thin film New=Thin Film
+Change Value of Parameter Composition in Part R32 Old=Thin film New=Thin Film
+Change Value of Parameter Composition in Part R23 Old=Thin film New=Thin Film
+Change Value of Parameter Composition in Part R14 Old=Thin film New=Thin Film
+Change Value of Parameter Composition in Part R12 Old=Thin film New=Thin Film
+Change Value of Parameter Composition in Part R19 Old=Thin film New=Thin Film
+Change Value of Parameter Composition in Part R16 Old=Thin film New=Thin Film
+Change Value of Parameter Composition in Part R45 Old=Thin film New=Thin Film
+Change Value of Parameter Composition in Part R44 Old=Thin film New=Thin Film
+Change Value of Parameter Composition in Part R52 Old=Thin film New=Thin Film
+Change Value of Parameter Composition in Part R50 Old=Thin film New=Thin Film
+Change Value of Parameter Composition in Part R39 Old=Thin film New=Thin Film
+Change Value of Parameter Composition in Part R37 Old=Thin film New=Thin Film
+Change Value of Parameter Composition in Part R43 Old=Thin film New=Thin Film
+Change Value of Parameter Composition in Part R42 Old=Thin film New=Thin Film
+Change Value of Parameter Composition in Part R10 Old=Thin film New=Thin Film
+Change Value of Parameter Composition in Part R3 Old=Thin film New=Thin Film
+Change Value of Parameter Composition in Part R6 Old=Thin film New=Thin Film
+Change Value of Parameter Composition in Part R8 Old=Thin film New=Thin Film
+Change Value of Parameter Composition in Part R2 Old=Thin film New=Thin Film
+Change Value of Parameter Composition in Part R1 Old=Thin film New=Thin Film
+Change Value of Parameter Composition in Part R5 Old=Thin film New=Thin Film
+Change Value of Parameter Composition in Part R9 Old=Thin film New=Thin Film
+Change Value of Parameter Composition in Part R7 Old=Thin film New=Thin Film
+Change Value of Parameter Resistance in Part R42 Old=10k New=10kR
+Change Value of Parameter Resistance in Part R39 Old=10k New=10kR
+Change Value of Parameter Resistance in Part R3 Old=10k New=10kR
+Change Value of Parameter Resistance in Part R1 Old=10k New=10kR
+Change Value of Parameter Resistance in Part R50 Old=10k New=10kR
+Change Value of Parameter Resistance in Part R52 Old=10k New=10kR
+Change Value of Parameter Resistance in Part R45 Old=10k New=10kR
+Change Value of Parameter Resistance in Part R43 Old=10k New=10kR
+Change Value of Parameter Resistance in Part R2 Old=10k New=10kR
+Change Value of Parameter Resistance in Part R44 Old=10k New=10kR
+Change Value of Parameter Resistance in Part R37 Old=10k New=10kR
+Change Value of Parameter Resistance in Part R8 Old=10k New=10kR
+Change Value of Parameter Resistance in Part R16 Old=10k New=10kR
+Change Value of Parameter Resistance in Part R19 Old=10k New=10kR
+Change Value of Parameter Resistance in Part R14 Old=10k New=10kR
+Change Value of Parameter Resistance in Part R10 Old=10k New=10kR
+Change Value of Parameter Resistance in Part R9 Old=10k New=10kR
+Change Value of Parameter Resistance in Part R12 Old=10k New=10kR
+Change Value of Parameter Resistance in Part R23 Old=10k New=10kR
+Change Value of Parameter Resistance in Part R32 Old=10k New=10kR
+Change Value of Parameter Resistance in Part R5 Old=10k New=10kR
+Change Value of Parameter Resistance in Part R6 Old=10k New=10kR
+Change Value of Parameter Resistance in Part R7 Old=10k New=10kR
+Change Value of Parameter Resistance in Part R20 Old=10k New=10kR
+Change Value of Parameter Resistance in Part R21 Old=10k New=10kR
+Added Parameter Case/Package=0603 to Part R1
+Added Parameter Case/Package=0603 to Part R2
+Added Parameter Case/Package=0603 to Part R3
+Added Parameter Case/Package=0603 to Part R5
+Added Parameter Case/Package=0603 to Part R6
+Added Parameter Case/Package=0603 to Part R7
+Added Parameter Case/Package=0603 to Part R8
+Added Parameter Case/Package=0603 to Part R9
+Added Parameter Case/Package=0603 to Part R10
+Added Parameter Case/Package=0603 to Part R12
+Added Parameter Case/Package=0603 to Part R14
+Added Parameter Case/Package=0603 to Part R16
+Added Parameter Case/Package=0603 to Part R19
+Added Parameter Case/Package=0603 to Part R20
+Added Parameter Case/Package=0603 to Part R21
+Added Parameter Case/Package=0603 to Part R23
+Added Parameter Case/Package=0603 to Part R32
+Added Parameter Case/Package=0603 to Part R37
+Added Parameter Case/Package=0603 to Part R39
+Added Parameter Case/Package=0603 to Part R42
+Added Parameter Case/Package=0603 to Part R43
+Added Parameter Case/Package=0603 to Part R44
+Added Parameter Case/Package=0603 to Part R45
+Added Parameter Case/Package=0603 to Part R50
+Added Parameter Case/Package=0603 to Part R52
+Added Parameter Case Code (Imperial)=0603 to Part R1
+Added Parameter Case Code (Imperial)=0603 to Part R2
+Added Parameter Case Code (Imperial)=0603 to Part R3
+Added Parameter Case Code (Imperial)=0603 to Part R5
+Added Parameter Case Code (Imperial)=0603 to Part R6
+Added Parameter Case Code (Imperial)=0603 to Part R7
+Added Parameter Case Code (Imperial)=0603 to Part R8
+Added Parameter Case Code (Imperial)=0603 to Part R9
+Added Parameter Case Code (Imperial)=0603 to Part R10
+Added Parameter Case Code (Imperial)=0603 to Part R12
+Added Parameter Case Code (Imperial)=0603 to Part R14
+Added Parameter Case Code (Imperial)=0603 to Part R16
+Added Parameter Case Code (Imperial)=0603 to Part R19
+Added Parameter Case Code (Imperial)=0603 to Part R20
+Added Parameter Case Code (Imperial)=0603 to Part R21
+Added Parameter Case Code (Imperial)=0603 to Part R23
+Added Parameter Case Code (Imperial)=0603 to Part R32
+Added Parameter Case Code (Imperial)=0603 to Part R37
+Added Parameter Case Code (Imperial)=0603 to Part R39
+Added Parameter Case Code (Imperial)=0603 to Part R42
+Added Parameter Case Code (Imperial)=0603 to Part R43
+Added Parameter Case Code (Imperial)=0603 to Part R44
+Added Parameter Case Code (Imperial)=0603 to Part R45
+Added Parameter Case Code (Imperial)=0603 to Part R50
+Added Parameter Case Code (Imperial)=0603 to Part R52
+Added Parameter Case Code (Metric)=1608 to Part R1
+Added Parameter Case Code (Metric)=1608 to Part R2
+Added Parameter Case Code (Metric)=1608 to Part R3
+Added Parameter Case Code (Metric)=1608 to Part R5
+Added Parameter Case Code (Metric)=1608 to Part R6
+Added Parameter Case Code (Metric)=1608 to Part R7
+Added Parameter Case Code (Metric)=1608 to Part R8
+Added Parameter Case Code (Metric)=1608 to Part R9
+Added Parameter Case Code (Metric)=1608 to Part R10
+Added Parameter Case Code (Metric)=1608 to Part R12
+Added Parameter Case Code (Metric)=1608 to Part R14
+Added Parameter Case Code (Metric)=1608 to Part R16
+Added Parameter Case Code (Metric)=1608 to Part R19
+Added Parameter Case Code (Metric)=1608 to Part R20
+Added Parameter Case Code (Metric)=1608 to Part R21
+Added Parameter Case Code (Metric)=1608 to Part R23
+Added Parameter Case Code (Metric)=1608 to Part R32
+Added Parameter Case Code (Metric)=1608 to Part R37
+Added Parameter Case Code (Metric)=1608 to Part R39
+Added Parameter Case Code (Metric)=1608 to Part R42
+Added Parameter Case Code (Metric)=1608 to Part R43
+Added Parameter Case Code (Metric)=1608 to Part R44
+Added Parameter Case Code (Metric)=1608 to Part R45
+Added Parameter Case Code (Metric)=1608 to Part R50
+Added Parameter Case Code (Metric)=1608 to Part R52
+Added Parameter ComponentLink1Description=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R1
+Added Parameter ComponentLink1Description=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R2
+Added Parameter ComponentLink1Description=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R3
+Added Parameter ComponentLink1Description=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R5
+Added Parameter ComponentLink1Description=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R6
+Added Parameter ComponentLink1Description=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R7
+Added Parameter ComponentLink1Description=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R8
+Added Parameter ComponentLink1Description=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R9
+Added Parameter ComponentLink1Description=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R10
+Added Parameter ComponentLink1Description=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R12
+Added Parameter ComponentLink1Description=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R14
+Added Parameter ComponentLink1Description=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R16
+Added Parameter ComponentLink1Description=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R19
+Added Parameter ComponentLink1Description=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R20
+Added Parameter ComponentLink1Description=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R21
+Added Parameter ComponentLink1Description=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R23
+Added Parameter ComponentLink1Description=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R32
+Added Parameter ComponentLink1Description=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R37
+Added Parameter ComponentLink1Description=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R39
+Added Parameter ComponentLink1Description=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R42
+Added Parameter ComponentLink1Description=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R43
+Added Parameter ComponentLink1Description=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R44
+Added Parameter ComponentLink1Description=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R45
+Added Parameter ComponentLink1Description=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R50
+Added Parameter ComponentLink1Description=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R52
+Added Parameter ComponentLink1URL=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R1
+Added Parameter ComponentLink1URL=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R2
+Added Parameter ComponentLink1URL=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R3
+Added Parameter ComponentLink1URL=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R5
+Added Parameter ComponentLink1URL=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R6
+Added Parameter ComponentLink1URL=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R7
+Added Parameter ComponentLink1URL=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R8
+Added Parameter ComponentLink1URL=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R9
+Added Parameter ComponentLink1URL=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R10
+Added Parameter ComponentLink1URL=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R12
+Added Parameter ComponentLink1URL=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R14
+Added Parameter ComponentLink1URL=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R16
+Added Parameter ComponentLink1URL=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R19
+Added Parameter ComponentLink1URL=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R20
+Added Parameter ComponentLink1URL=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R21
+Added Parameter ComponentLink1URL=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R23
+Added Parameter ComponentLink1URL=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R32
+Added Parameter ComponentLink1URL=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R37
+Added Parameter ComponentLink1URL=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R39
+Added Parameter ComponentLink1URL=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R42
+Added Parameter ComponentLink1URL=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R43
+Added Parameter ComponentLink1URL=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R44
+Added Parameter ComponentLink1URL=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R45
+Added Parameter ComponentLink1URL=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R50
+Added Parameter ComponentLink1URL=https://datasheet.ciiva.com/2559/pyu-rt-1-to-0-05-rohs-l-5-2559482.pdf?src-supplier=Digi-Key to Part R52
+Added Parameter ComponentLink2Description=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R1
+Added Parameter ComponentLink2Description=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R2
+Added Parameter ComponentLink2Description=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R3
+Added Parameter ComponentLink2Description=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R5
+Added Parameter ComponentLink2Description=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R6
+Added Parameter ComponentLink2Description=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R7
+Added Parameter ComponentLink2Description=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R8
+Added Parameter ComponentLink2Description=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R9
+Added Parameter ComponentLink2Description=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R10
+Added Parameter ComponentLink2Description=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R12
+Added Parameter ComponentLink2Description=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R14
+Added Parameter ComponentLink2Description=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R16
+Added Parameter ComponentLink2Description=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R19
+Added Parameter ComponentLink2Description=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R20
+Added Parameter ComponentLink2Description=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R21
+Added Parameter ComponentLink2Description=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R23
+Added Parameter ComponentLink2Description=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R32
+Added Parameter ComponentLink2Description=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R37
+Added Parameter ComponentLink2Description=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R39
+Added Parameter ComponentLink2Description=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R42
+Added Parameter ComponentLink2Description=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R43
+Added Parameter ComponentLink2Description=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R44
+Added Parameter ComponentLink2Description=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R45
+Added Parameter ComponentLink2Description=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R50
+Added Parameter ComponentLink2Description=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R52
+Added Parameter ComponentLink2URL=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R1
+Added Parameter ComponentLink2URL=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R2
+Added Parameter ComponentLink2URL=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R3
+Added Parameter ComponentLink2URL=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R5
+Added Parameter ComponentLink2URL=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R6
+Added Parameter ComponentLink2URL=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R7
+Added Parameter ComponentLink2URL=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R8
+Added Parameter ComponentLink2URL=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R9
+Added Parameter ComponentLink2URL=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R10
+Added Parameter ComponentLink2URL=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R12
+Added Parameter ComponentLink2URL=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R14
+Added Parameter ComponentLink2URL=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R16
+Added Parameter ComponentLink2URL=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R19
+Added Parameter ComponentLink2URL=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R20
+Added Parameter ComponentLink2URL=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R21
+Added Parameter ComponentLink2URL=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R23
+Added Parameter ComponentLink2URL=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R32
+Added Parameter ComponentLink2URL=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R37
+Added Parameter ComponentLink2URL=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R39
+Added Parameter ComponentLink2URL=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R42
+Added Parameter ComponentLink2URL=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R43
+Added Parameter ComponentLink2URL=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R44
+Added Parameter ComponentLink2URL=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R45
+Added Parameter ComponentLink2URL=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R50
+Added Parameter ComponentLink2URL=https://datasheet.ciiva.com/16745/pyu-rt-1-to-0-05-rohs-l-4-16745739.pdf?src-supplier=Future+Electronics to Part R52
+Added Parameter ComponentLink3Description=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R1
+Added Parameter ComponentLink3Description=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R2
+Added Parameter ComponentLink3Description=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R3
+Added Parameter ComponentLink3Description=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R5
+Added Parameter ComponentLink3Description=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R6
+Added Parameter ComponentLink3Description=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R7
+Added Parameter ComponentLink3Description=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R8
+Added Parameter ComponentLink3Description=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R9
+Added Parameter ComponentLink3Description=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R10
+Added Parameter ComponentLink3Description=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R12
+Added Parameter ComponentLink3Description=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R14
+Added Parameter ComponentLink3Description=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R16
+Added Parameter ComponentLink3Description=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R19
+Added Parameter ComponentLink3Description=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R20
+Added Parameter ComponentLink3Description=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R21
+Added Parameter ComponentLink3Description=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R23
+Added Parameter ComponentLink3Description=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R32
+Added Parameter ComponentLink3Description=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R37
+Added Parameter ComponentLink3Description=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R39
+Added Parameter ComponentLink3Description=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R42
+Added Parameter ComponentLink3Description=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R43
+Added Parameter ComponentLink3Description=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R44
+Added Parameter ComponentLink3Description=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R45
+Added Parameter ComponentLink3Description=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R50
+Added Parameter ComponentLink3Description=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R52
+Added Parameter ComponentLink3URL=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R1
+Added Parameter ComponentLink3URL=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R2
+Added Parameter ComponentLink3URL=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R3
+Added Parameter ComponentLink3URL=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R5
+Added Parameter ComponentLink3URL=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R6
+Added Parameter ComponentLink3URL=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R7
+Added Parameter ComponentLink3URL=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R8
+Added Parameter ComponentLink3URL=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R9
+Added Parameter ComponentLink3URL=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R10
+Added Parameter ComponentLink3URL=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R12
+Added Parameter ComponentLink3URL=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R14
+Added Parameter ComponentLink3URL=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R16
+Added Parameter ComponentLink3URL=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R19
+Added Parameter ComponentLink3URL=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R20
+Added Parameter ComponentLink3URL=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R21
+Added Parameter ComponentLink3URL=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R23
+Added Parameter ComponentLink3URL=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R32
+Added Parameter ComponentLink3URL=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R37
+Added Parameter ComponentLink3URL=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R39
+Added Parameter ComponentLink3URL=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R42
+Added Parameter ComponentLink3URL=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R43
+Added Parameter ComponentLink3URL=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R44
+Added Parameter ComponentLink3URL=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R45
+Added Parameter ComponentLink3URL=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R50
+Added Parameter ComponentLink3URL=https://datasheet.ciiva.com/12694/pyu-rt-1-to-0-05-rohs-l-4-12694910.pdf?src-supplier=Mouser to Part R52
+Added Parameter Contact Plating=Tin to Part R1
+Added Parameter Contact Plating=Tin to Part R2
+Added Parameter Contact Plating=Tin to Part R3
+Added Parameter Contact Plating=Tin to Part R5
+Added Parameter Contact Plating=Tin to Part R6
+Added Parameter Contact Plating=Tin to Part R7
+Added Parameter Contact Plating=Tin to Part R8
+Added Parameter Contact Plating=Tin to Part R9
+Added Parameter Contact Plating=Tin to Part R10
+Added Parameter Contact Plating=Tin to Part R12
+Added Parameter Contact Plating=Tin to Part R14
+Added Parameter Contact Plating=Tin to Part R16
+Added Parameter Contact Plating=Tin to Part R19
+Added Parameter Contact Plating=Tin to Part R20
+Added Parameter Contact Plating=Tin to Part R21
+Added Parameter Contact Plating=Tin to Part R23
+Added Parameter Contact Plating=Tin to Part R32
+Added Parameter Contact Plating=Tin to Part R37
+Added Parameter Contact Plating=Tin to Part R39
+Added Parameter Contact Plating=Tin to Part R42
+Added Parameter Contact Plating=Tin to Part R43
+Added Parameter Contact Plating=Tin to Part R44
+Added Parameter Contact Plating=Tin to Part R45
+Added Parameter Contact Plating=Tin to Part R50
+Added Parameter Contact Plating=Tin to Part R52
+Added Parameter Depth=0.8mm to Part R1
+Added Parameter Depth=0.8mm to Part R2
+Added Parameter Depth=0.8mm to Part R3
+Added Parameter Depth=0.8mm to Part R5
+Added Parameter Depth=0.8mm to Part R6
+Added Parameter Depth=0.8mm to Part R7
+Added Parameter Depth=0.8mm to Part R8
+Added Parameter Depth=0.8mm to Part R9
+Added Parameter Depth=0.8mm to Part R10
+Added Parameter Depth=0.8mm to Part R12
+Added Parameter Depth=0.8mm to Part R14
+Added Parameter Depth=0.8mm to Part R16
+Added Parameter Depth=0.8mm to Part R19
+Added Parameter Depth=0.8mm to Part R20
+Added Parameter Depth=0.8mm to Part R21
+Added Parameter Depth=0.8mm to Part R23
+Added Parameter Depth=0.8mm to Part R32
+Added Parameter Depth=0.8mm to Part R37
+Added Parameter Depth=0.8mm to Part R39
+Added Parameter Depth=0.8mm to Part R42
+Added Parameter Depth=0.8mm to Part R43
+Added Parameter Depth=0.8mm to Part R44
+Added Parameter Depth=0.8mm to Part R45
+Added Parameter Depth=0.8mm to Part R50
+Added Parameter Depth=0.8mm to Part R52
+Added Parameter Design Item ID=Res 0603 10K 1% to Part R1
+Added Parameter Design Item ID=Res 0603 10K 1% to Part R2
+Added Parameter Design Item ID=Res 0603 10K 1% to Part R3
+Added Parameter Design Item ID=Res 0603 10K 1% to Part R5
+Added Parameter Design Item ID=Res 0603 10K 1% to Part R6
+Added Parameter Design Item ID=Res 0603 10K 1% to Part R7
+Added Parameter Design Item ID=Res 0603 10K 1% to Part R8
+Added Parameter Design Item ID=Res 0603 10K 1% to Part R9
+Added Parameter Design Item ID=Res 0603 10K 1% to Part R10
+Added Parameter Design Item ID=Res 0603 10K 1% to Part R12
+Added Parameter Design Item ID=Res 0603 10K 1% to Part R14
+Added Parameter Design Item ID=Res 0603 10K 1% to Part R16
+Added Parameter Design Item ID=Res 0603 10K 1% to Part R19
+Added Parameter Design Item ID=Res 0603 10K 1% to Part R20
+Added Parameter Design Item ID=Res 0603 10K 1% to Part R21
+Added Parameter Design Item ID=Res 0603 10K 1% to Part R23
+Added Parameter Design Item ID=Res 0603 10K 1% to Part R32
+Added Parameter Design Item ID=Res 0603 10K 1% to Part R37
+Added Parameter Design Item ID=Res 0603 10K 1% to Part R39
+Added Parameter Design Item ID=Res 0603 10K 1% to Part R42
+Added Parameter Design Item ID=Res 0603 10K 1% to Part R43
+Added Parameter Design Item ID=Res 0603 10K 1% to Part R44
+Added Parameter Design Item ID=Res 0603 10K 1% to Part R45
+Added Parameter Design Item ID=Res 0603 10K 1% to Part R50
+Added Parameter Design Item ID=Res 0603 10K 1% to Part R52
+Added Parameter Features=Moisture Resistant to Part R1
+Added Parameter Features=Moisture Resistant to Part R2
+Added Parameter Features=Moisture Resistant to Part R3
+Added Parameter Features=Moisture Resistant to Part R5
+Added Parameter Features=Moisture Resistant to Part R6
+Added Parameter Features=Moisture Resistant to Part R7
+Added Parameter Features=Moisture Resistant to Part R8
+Added Parameter Features=Moisture Resistant to Part R9
+Added Parameter Features=Moisture Resistant to Part R10
+Added Parameter Features=Moisture Resistant to Part R12
+Added Parameter Features=Moisture Resistant to Part R14
+Added Parameter Features=Moisture Resistant to Part R16
+Added Parameter Features=Moisture Resistant to Part R19
+Added Parameter Features=Moisture Resistant to Part R20
+Added Parameter Features=Moisture Resistant to Part R21
+Added Parameter Features=Moisture Resistant to Part R23
+Added Parameter Features=Moisture Resistant to Part R32
+Added Parameter Features=Moisture Resistant to Part R37
+Added Parameter Features=Moisture Resistant to Part R39
+Added Parameter Features=Moisture Resistant to Part R42
+Added Parameter Features=Moisture Resistant to Part R43
+Added Parameter Features=Moisture Resistant to Part R44
+Added Parameter Features=Moisture Resistant to Part R45
+Added Parameter Features=Moisture Resistant to Part R50
+Added Parameter Features=Moisture Resistant to Part R52
+Added Parameter Height=0.022inch to Part R1
+Added Parameter Height=0.022inch to Part R2
+Added Parameter Height=0.022inch to Part R3
+Added Parameter Height=0.022inch to Part R5
+Added Parameter Height=0.022inch to Part R6
+Added Parameter Height=0.022inch to Part R7
+Added Parameter Height=0.022inch to Part R8
+Added Parameter Height=0.022inch to Part R9
+Added Parameter Height=0.022inch to Part R10
+Added Parameter Height=0.022inch to Part R12
+Added Parameter Height=0.022inch to Part R14
+Added Parameter Height=0.022inch to Part R16
+Added Parameter Height=0.022inch to Part R19
+Added Parameter Height=0.022inch to Part R20
+Added Parameter Height=0.022inch to Part R21
+Added Parameter Height=0.022inch to Part R23
+Added Parameter Height=0.022inch to Part R32
+Added Parameter Height=0.022inch to Part R37
+Added Parameter Height=0.022inch to Part R39
+Added Parameter Height=0.022inch to Part R42
+Added Parameter Height=0.022inch to Part R43
+Added Parameter Height=0.022inch to Part R44
+Added Parameter Height=0.022inch to Part R45
+Added Parameter Height=0.022inch to Part R50
+Added Parameter Height=0.022inch to Part R52
+Added Parameter LatestRevisionDate=17-Jul-2002 to Part R1
+Added Parameter LatestRevisionDate=17-Jul-2002 to Part R2
+Added Parameter LatestRevisionDate=17-Jul-2002 to Part R3
+Added Parameter LatestRevisionDate=17-Jul-2002 to Part R5
+Added Parameter LatestRevisionDate=17-Jul-2002 to Part R6
+Added Parameter LatestRevisionDate=17-Jul-2002 to Part R7
+Added Parameter LatestRevisionDate=17-Jul-2002 to Part R8
+Added Parameter LatestRevisionDate=17-Jul-2002 to Part R9
+Added Parameter LatestRevisionDate=17-Jul-2002 to Part R10
+Added Parameter LatestRevisionDate=17-Jul-2002 to Part R12
+Added Parameter LatestRevisionDate=17-Jul-2002 to Part R14
+Added Parameter LatestRevisionDate=17-Jul-2002 to Part R16
+Added Parameter LatestRevisionDate=17-Jul-2002 to Part R19
+Added Parameter LatestRevisionDate=17-Jul-2002 to Part R20
+Added Parameter LatestRevisionDate=17-Jul-2002 to Part R21
+Added Parameter LatestRevisionDate=17-Jul-2002 to Part R23
+Added Parameter LatestRevisionDate=17-Jul-2002 to Part R32
+Added Parameter LatestRevisionDate=17-Jul-2002 to Part R37
+Added Parameter LatestRevisionDate=17-Jul-2002 to Part R39
+Added Parameter LatestRevisionDate=17-Jul-2002 to Part R42
+Added Parameter LatestRevisionDate=17-Jul-2002 to Part R43
+Added Parameter LatestRevisionDate=17-Jul-2002 to Part R44
+Added Parameter LatestRevisionDate=17-Jul-2002 to Part R45
+Added Parameter LatestRevisionDate=17-Jul-2002 to Part R50
+Added Parameter LatestRevisionDate=17-Jul-2002 to Part R52
+Added Parameter LatestRevisionNote=Re-released for DXP Platform. to Part R1
+Added Parameter LatestRevisionNote=Re-released for DXP Platform. to Part R2
+Added Parameter LatestRevisionNote=Re-released for DXP Platform. to Part R3
+Added Parameter LatestRevisionNote=Re-released for DXP Platform. to Part R5
+Added Parameter LatestRevisionNote=Re-released for DXP Platform. to Part R6
+Added Parameter LatestRevisionNote=Re-released for DXP Platform. to Part R7
+Added Parameter LatestRevisionNote=Re-released for DXP Platform. to Part R8
+Added Parameter LatestRevisionNote=Re-released for DXP Platform. to Part R9
+Added Parameter LatestRevisionNote=Re-released for DXP Platform. to Part R10
+Added Parameter LatestRevisionNote=Re-released for DXP Platform. to Part R12
+Added Parameter LatestRevisionNote=Re-released for DXP Platform. to Part R14
+Added Parameter LatestRevisionNote=Re-released for DXP Platform. to Part R16
+Added Parameter LatestRevisionNote=Re-released for DXP Platform. to Part R19
+Added Parameter LatestRevisionNote=Re-released for DXP Platform. to Part R20
+Added Parameter LatestRevisionNote=Re-released for DXP Platform. to Part R21
+Added Parameter LatestRevisionNote=Re-released for DXP Platform. to Part R23
+Added Parameter LatestRevisionNote=Re-released for DXP Platform. to Part R32
+Added Parameter LatestRevisionNote=Re-released for DXP Platform. to Part R37
+Added Parameter LatestRevisionNote=Re-released for DXP Platform. to Part R39
+Added Parameter LatestRevisionNote=Re-released for DXP Platform. to Part R42
+Added Parameter LatestRevisionNote=Re-released for DXP Platform. to Part R43
+Added Parameter LatestRevisionNote=Re-released for DXP Platform. to Part R44
+Added Parameter LatestRevisionNote=Re-released for DXP Platform. to Part R45
+Added Parameter LatestRevisionNote=Re-released for DXP Platform. to Part R50
+Added Parameter LatestRevisionNote=Re-released for DXP Platform. to Part R52
+Added Parameter Lead Free=Lead Free to Part R1
+Added Parameter Lead Free=Lead Free to Part R2
+Added Parameter Lead Free=Lead Free to Part R3
+Added Parameter Lead Free=Lead Free to Part R5
+Added Parameter Lead Free=Lead Free to Part R6
+Added Parameter Lead Free=Lead Free to Part R7
+Added Parameter Lead Free=Lead Free to Part R8
+Added Parameter Lead Free=Lead Free to Part R9
+Added Parameter Lead Free=Lead Free to Part R10
+Added Parameter Lead Free=Lead Free to Part R12
+Added Parameter Lead Free=Lead Free to Part R14
+Added Parameter Lead Free=Lead Free to Part R16
+Added Parameter Lead Free=Lead Free to Part R19
+Added Parameter Lead Free=Lead Free to Part R20
+Added Parameter Lead Free=Lead Free to Part R21
+Added Parameter Lead Free=Lead Free to Part R23
+Added Parameter Lead Free=Lead Free to Part R32
+Added Parameter Lead Free=Lead Free to Part R37
+Added Parameter Lead Free=Lead Free to Part R39
+Added Parameter Lead Free=Lead Free to Part R42
+Added Parameter Lead Free=Lead Free to Part R43
+Added Parameter Lead Free=Lead Free to Part R44
+Added Parameter Lead Free=Lead Free to Part R45
+Added Parameter Lead Free=Lead Free to Part R50
+Added Parameter Lead Free=Lead Free to Part R52
+Added Parameter Length=0.063inch to Part R1
+Added Parameter Length=0.063inch to Part R2
+Added Parameter Length=0.063inch to Part R3
+Added Parameter Length=0.063inch to Part R5
+Added Parameter Length=0.063inch to Part R6
+Added Parameter Length=0.063inch to Part R7
+Added Parameter Length=0.063inch to Part R8
+Added Parameter Length=0.063inch to Part R9
+Added Parameter Length=0.063inch to Part R10
+Added Parameter Length=0.063inch to Part R12
+Added Parameter Length=0.063inch to Part R14
+Added Parameter Length=0.063inch to Part R16
+Added Parameter Length=0.063inch to Part R19
+Added Parameter Length=0.063inch to Part R20
+Added Parameter Length=0.063inch to Part R21
+Added Parameter Length=0.063inch to Part R23
+Added Parameter Length=0.063inch to Part R32
+Added Parameter Length=0.063inch to Part R37
+Added Parameter Length=0.063inch to Part R39
+Added Parameter Length=0.063inch to Part R42
+Added Parameter Length=0.063inch to Part R43
+Added Parameter Length=0.063inch to Part R44
+Added Parameter Length=0.063inch to Part R45
+Added Parameter Length=0.063inch to Part R50
+Added Parameter Length=0.063inch to Part R52
+Added Parameter Max Operating Temperature=125°C to Part R1
+Added Parameter Max Operating Temperature=125°C to Part R2
+Added Parameter Max Operating Temperature=125°C to Part R3
+Added Parameter Max Operating Temperature=125°C to Part R5
+Added Parameter Max Operating Temperature=125°C to Part R6
+Added Parameter Max Operating Temperature=125°C to Part R7
+Added Parameter Max Operating Temperature=125°C to Part R8
+Added Parameter Max Operating Temperature=125°C to Part R9
+Added Parameter Max Operating Temperature=125°C to Part R10
+Added Parameter Max Operating Temperature=125°C to Part R12
+Added Parameter Max Operating Temperature=125°C to Part R14
+Added Parameter Max Operating Temperature=125°C to Part R16
+Added Parameter Max Operating Temperature=125°C to Part R19
+Added Parameter Max Operating Temperature=125°C to Part R20
+Added Parameter Max Operating Temperature=125°C to Part R21
+Added Parameter Max Operating Temperature=125°C to Part R23
+Added Parameter Max Operating Temperature=125°C to Part R32
+Added Parameter Max Operating Temperature=125°C to Part R37
+Added Parameter Max Operating Temperature=125°C to Part R39
+Added Parameter Max Operating Temperature=125°C to Part R42
+Added Parameter Max Operating Temperature=125°C to Part R43
+Added Parameter Max Operating Temperature=125°C to Part R44
+Added Parameter Max Operating Temperature=125°C to Part R45
+Added Parameter Max Operating Temperature=125°C to Part R50
+Added Parameter Max Operating Temperature=125°C to Part R52
+Added Parameter Max Power Dissipation=100mW to Part R1
+Added Parameter Max Power Dissipation=100mW to Part R2
+Added Parameter Max Power Dissipation=100mW to Part R3
+Added Parameter Max Power Dissipation=100mW to Part R5
+Added Parameter Max Power Dissipation=100mW to Part R6
+Added Parameter Max Power Dissipation=100mW to Part R7
+Added Parameter Max Power Dissipation=100mW to Part R8
+Added Parameter Max Power Dissipation=100mW to Part R9
+Added Parameter Max Power Dissipation=100mW to Part R10
+Added Parameter Max Power Dissipation=100mW to Part R12
+Added Parameter Max Power Dissipation=100mW to Part R14
+Added Parameter Max Power Dissipation=100mW to Part R16
+Added Parameter Max Power Dissipation=100mW to Part R19
+Added Parameter Max Power Dissipation=100mW to Part R20
+Added Parameter Max Power Dissipation=100mW to Part R21
+Added Parameter Max Power Dissipation=100mW to Part R23
+Added Parameter Max Power Dissipation=100mW to Part R32
+Added Parameter Max Power Dissipation=100mW to Part R37
+Added Parameter Max Power Dissipation=100mW to Part R39
+Added Parameter Max Power Dissipation=100mW to Part R42
+Added Parameter Max Power Dissipation=100mW to Part R43
+Added Parameter Max Power Dissipation=100mW to Part R44
+Added Parameter Max Power Dissipation=100mW to Part R45
+Added Parameter Max Power Dissipation=100mW to Part R50
+Added Parameter Max Power Dissipation=100mW to Part R52
+Added Parameter Military Standard=Not to Part R1
+Added Parameter Military Standard=Not to Part R2
+Added Parameter Military Standard=Not to Part R3
+Added Parameter Military Standard=Not to Part R5
+Added Parameter Military Standard=Not to Part R6
+Added Parameter Military Standard=Not to Part R7
+Added Parameter Military Standard=Not to Part R8
+Added Parameter Military Standard=Not to Part R9
+Added Parameter Military Standard=Not to Part R10
+Added Parameter Military Standard=Not to Part R12
+Added Parameter Military Standard=Not to Part R14
+Added Parameter Military Standard=Not to Part R16
+Added Parameter Military Standard=Not to Part R19
+Added Parameter Military Standard=Not to Part R20
+Added Parameter Military Standard=Not to Part R21
+Added Parameter Military Standard=Not to Part R23
+Added Parameter Military Standard=Not to Part R32
+Added Parameter Military Standard=Not to Part R37
+Added Parameter Military Standard=Not to Part R39
+Added Parameter Military Standard=Not to Part R42
+Added Parameter Military Standard=Not to Part R43
+Added Parameter Military Standard=Not to Part R44
+Added Parameter Military Standard=Not to Part R45
+Added Parameter Military Standard=Not to Part R50
+Added Parameter Military Standard=Not to Part R52
+Added Parameter Min Operating Temperature=-55°C to Part R1
+Added Parameter Min Operating Temperature=-55°C to Part R2
+Added Parameter Min Operating Temperature=-55°C to Part R3
+Added Parameter Min Operating Temperature=-55°C to Part R5
+Added Parameter Min Operating Temperature=-55°C to Part R6
+Added Parameter Min Operating Temperature=-55°C to Part R7
+Added Parameter Min Operating Temperature=-55°C to Part R8
+Added Parameter Min Operating Temperature=-55°C to Part R9
+Added Parameter Min Operating Temperature=-55°C to Part R10
+Added Parameter Min Operating Temperature=-55°C to Part R12
+Added Parameter Min Operating Temperature=-55°C to Part R14
+Added Parameter Min Operating Temperature=-55°C to Part R16
+Added Parameter Min Operating Temperature=-55°C to Part R19
+Added Parameter Min Operating Temperature=-55°C to Part R20
+Added Parameter Min Operating Temperature=-55°C to Part R21
+Added Parameter Min Operating Temperature=-55°C to Part R23
+Added Parameter Min Operating Temperature=-55°C to Part R32
+Added Parameter Min Operating Temperature=-55°C to Part R37
+Added Parameter Min Operating Temperature=-55°C to Part R39
+Added Parameter Min Operating Temperature=-55°C to Part R42
+Added Parameter Min Operating Temperature=-55°C to Part R43
+Added Parameter Min Operating Temperature=-55°C to Part R44
+Added Parameter Min Operating Temperature=-55°C to Part R45
+Added Parameter Min Operating Temperature=-55°C to Part R50
+Added Parameter Min Operating Temperature=-55°C to Part R52
+Added Parameter Number of Pins=2 to Part R1
+Added Parameter Number of Pins=2 to Part R2
+Added Parameter Number of Pins=2 to Part R3
+Added Parameter Number of Pins=2 to Part R5
+Added Parameter Number of Pins=2 to Part R6
+Added Parameter Number of Pins=2 to Part R7
+Added Parameter Number of Pins=2 to Part R8
+Added Parameter Number of Pins=2 to Part R9
+Added Parameter Number of Pins=2 to Part R10
+Added Parameter Number of Pins=2 to Part R12
+Added Parameter Number of Pins=2 to Part R14
+Added Parameter Number of Pins=2 to Part R16
+Added Parameter Number of Pins=2 to Part R19
+Added Parameter Number of Pins=2 to Part R20
+Added Parameter Number of Pins=2 to Part R21
+Added Parameter Number of Pins=2 to Part R23
+Added Parameter Number of Pins=2 to Part R32
+Added Parameter Number of Pins=2 to Part R37
+Added Parameter Number of Pins=2 to Part R39
+Added Parameter Number of Pins=2 to Part R42
+Added Parameter Number of Pins=2 to Part R43
+Added Parameter Number of Pins=2 to Part R44
+Added Parameter Number of Pins=2 to Part R45
+Added Parameter Number of Pins=2 to Part R50
+Added Parameter Number of Pins=2 to Part R52
+Added Parameter Number of Terminations=2 to Part R1
+Added Parameter Number of Terminations=2 to Part R2
+Added Parameter Number of Terminations=2 to Part R3
+Added Parameter Number of Terminations=2 to Part R5
+Added Parameter Number of Terminations=2 to Part R6
+Added Parameter Number of Terminations=2 to Part R7
+Added Parameter Number of Terminations=2 to Part R8
+Added Parameter Number of Terminations=2 to Part R9
+Added Parameter Number of Terminations=2 to Part R10
+Added Parameter Number of Terminations=2 to Part R12
+Added Parameter Number of Terminations=2 to Part R14
+Added Parameter Number of Terminations=2 to Part R16
+Added Parameter Number of Terminations=2 to Part R19
+Added Parameter Number of Terminations=2 to Part R20
+Added Parameter Number of Terminations=2 to Part R21
+Added Parameter Number of Terminations=2 to Part R23
+Added Parameter Number of Terminations=2 to Part R32
+Added Parameter Number of Terminations=2 to Part R37
+Added Parameter Number of Terminations=2 to Part R39
+Added Parameter Number of Terminations=2 to Part R42
+Added Parameter Number of Terminations=2 to Part R43
+Added Parameter Number of Terminations=2 to Part R44
+Added Parameter Number of Terminations=2 to Part R45
+Added Parameter Number of Terminations=2 to Part R50
+Added Parameter Number of Terminations=2 to Part R52
+Added Parameter PackageDescription=Axial Device, Thru-Hole; 2 Leads; 0.5 in Pin Spacing to Part R1
+Added Parameter PackageDescription=Axial Device, Thru-Hole; 2 Leads; 0.5 in Pin Spacing to Part R2
+Added Parameter PackageDescription=Axial Device, Thru-Hole; 2 Leads; 0.5 in Pin Spacing to Part R3
+Added Parameter PackageDescription=Axial Device, Thru-Hole; 2 Leads; 0.5 in Pin Spacing to Part R5
+Added Parameter PackageDescription=Axial Device, Thru-Hole; 2 Leads; 0.5 in Pin Spacing to Part R6
+Added Parameter PackageDescription=Axial Device, Thru-Hole; 2 Leads; 0.5 in Pin Spacing to Part R7
+Added Parameter PackageDescription=Axial Device, Thru-Hole; 2 Leads; 0.5 in Pin Spacing to Part R8
+Added Parameter PackageDescription=Axial Device, Thru-Hole; 2 Leads; 0.5 in Pin Spacing to Part R9
+Added Parameter PackageDescription=Axial Device, Thru-Hole; 2 Leads; 0.5 in Pin Spacing to Part R10
+Added Parameter PackageDescription=Axial Device, Thru-Hole; 2 Leads; 0.5 in Pin Spacing to Part R12
+Added Parameter PackageDescription=Axial Device, Thru-Hole; 2 Leads; 0.5 in Pin Spacing to Part R14
+Added Parameter PackageDescription=Axial Device, Thru-Hole; 2 Leads; 0.5 in Pin Spacing to Part R16
+Added Parameter PackageDescription=Axial Device, Thru-Hole; 2 Leads; 0.5 in Pin Spacing to Part R19
+Added Parameter PackageDescription=Axial Device, Thru-Hole; 2 Leads; 0.5 in Pin Spacing to Part R20
+Added Parameter PackageDescription=Axial Device, Thru-Hole; 2 Leads; 0.5 in Pin Spacing to Part R21
+Added Parameter PackageDescription=Axial Device, Thru-Hole; 2 Leads; 0.5 in Pin Spacing to Part R23
+Added Parameter PackageDescription=Axial Device, Thru-Hole; 2 Leads; 0.5 in Pin Spacing to Part R32
+Added Parameter PackageDescription=Axial Device, Thru-Hole; 2 Leads; 0.5 in Pin Spacing to Part R37
+Added Parameter PackageDescription=Axial Device, Thru-Hole; 2 Leads; 0.5 in Pin Spacing to Part R39
+Added Parameter PackageDescription=Axial Device, Thru-Hole; 2 Leads; 0.5 in Pin Spacing to Part R42
+Added Parameter PackageDescription=Axial Device, Thru-Hole; 2 Leads; 0.5 in Pin Spacing to Part R43
+Added Parameter PackageDescription=Axial Device, Thru-Hole; 2 Leads; 0.5 in Pin Spacing to Part R44
+Added Parameter PackageDescription=Axial Device, Thru-Hole; 2 Leads; 0.5 in Pin Spacing to Part R45
+Added Parameter PackageDescription=Axial Device, Thru-Hole; 2 Leads; 0.5 in Pin Spacing to Part R50
+Added Parameter PackageDescription=Axial Device, Thru-Hole; 2 Leads; 0.5 in Pin Spacing to Part R52
+Added Parameter Package Quantity=5000 to Part R1
+Added Parameter Package Quantity=5000 to Part R2
+Added Parameter Package Quantity=5000 to Part R3
+Added Parameter Package Quantity=5000 to Part R5
+Added Parameter Package Quantity=5000 to Part R6
+Added Parameter Package Quantity=5000 to Part R7
+Added Parameter Package Quantity=5000 to Part R8
+Added Parameter Package Quantity=5000 to Part R9
+Added Parameter Package Quantity=5000 to Part R10
+Added Parameter Package Quantity=5000 to Part R12
+Added Parameter Package Quantity=5000 to Part R14
+Added Parameter Package Quantity=5000 to Part R16
+Added Parameter Package Quantity=5000 to Part R19
+Added Parameter Package Quantity=5000 to Part R20
+Added Parameter Package Quantity=5000 to Part R21
+Added Parameter Package Quantity=5000 to Part R23
+Added Parameter Package Quantity=5000 to Part R32
+Added Parameter Package Quantity=5000 to Part R37
+Added Parameter Package Quantity=5000 to Part R39
+Added Parameter Package Quantity=5000 to Part R42
+Added Parameter Package Quantity=5000 to Part R43
+Added Parameter Package Quantity=5000 to Part R44
+Added Parameter Package Quantity=5000 to Part R45
+Added Parameter Package Quantity=5000 to Part R50
+Added Parameter Package Quantity=5000 to Part R52
+Added Parameter PackageReference=AXIAL-0.5 to Part R1
+Added Parameter PackageReference=AXIAL-0.5 to Part R2
+Added Parameter PackageReference=AXIAL-0.5 to Part R3
+Added Parameter PackageReference=AXIAL-0.5 to Part R5
+Added Parameter PackageReference=AXIAL-0.5 to Part R6
+Added Parameter PackageReference=AXIAL-0.5 to Part R7
+Added Parameter PackageReference=AXIAL-0.5 to Part R8
+Added Parameter PackageReference=AXIAL-0.5 to Part R9
+Added Parameter PackageReference=AXIAL-0.5 to Part R10
+Added Parameter PackageReference=AXIAL-0.5 to Part R12
+Added Parameter PackageReference=AXIAL-0.5 to Part R14
+Added Parameter PackageReference=AXIAL-0.5 to Part R16
+Added Parameter PackageReference=AXIAL-0.5 to Part R19
+Added Parameter PackageReference=AXIAL-0.5 to Part R20
+Added Parameter PackageReference=AXIAL-0.5 to Part R21
+Added Parameter PackageReference=AXIAL-0.5 to Part R23
+Added Parameter PackageReference=AXIAL-0.5 to Part R32
+Added Parameter PackageReference=AXIAL-0.5 to Part R37
+Added Parameter PackageReference=AXIAL-0.5 to Part R39
+Added Parameter PackageReference=AXIAL-0.5 to Part R42
+Added Parameter PackageReference=AXIAL-0.5 to Part R43
+Added Parameter PackageReference=AXIAL-0.5 to Part R44
+Added Parameter PackageReference=AXIAL-0.5 to Part R45
+Added Parameter PackageReference=AXIAL-0.5 to Part R50
+Added Parameter PackageReference=AXIAL-0.5 to Part R52
+Added Parameter Packaging=Tape and Reel to Part R1
+Added Parameter Packaging=Tape and Reel to Part R2
+Added Parameter Packaging=Tape and Reel to Part R3
+Added Parameter Packaging=Tape and Reel to Part R5
+Added Parameter Packaging=Tape and Reel to Part R6
+Added Parameter Packaging=Tape and Reel to Part R7
+Added Parameter Packaging=Tape and Reel to Part R8
+Added Parameter Packaging=Tape and Reel to Part R9
+Added Parameter Packaging=Tape and Reel to Part R10
+Added Parameter Packaging=Tape and Reel to Part R12
+Added Parameter Packaging=Tape and Reel to Part R14
+Added Parameter Packaging=Tape and Reel to Part R16
+Added Parameter Packaging=Tape and Reel to Part R19
+Added Parameter Packaging=Tape and Reel to Part R20
+Added Parameter Packaging=Tape and Reel to Part R21
+Added Parameter Packaging=Tape and Reel to Part R23
+Added Parameter Packaging=Tape and Reel to Part R32
+Added Parameter Packaging=Tape and Reel to Part R37
+Added Parameter Packaging=Tape and Reel to Part R39
+Added Parameter Packaging=Tape and Reel to Part R42
+Added Parameter Packaging=Tape and Reel to Part R43
+Added Parameter Packaging=Tape and Reel to Part R44
+Added Parameter Packaging=Tape and Reel to Part R45
+Added Parameter Packaging=Tape and Reel to Part R50
+Added Parameter Packaging=Tape and Reel to Part R52
+Added Parameter Power Rating=100mW to Part R1
+Added Parameter Power Rating=100mW to Part R2
+Added Parameter Power Rating=100mW to Part R3
+Added Parameter Power Rating=100mW to Part R5
+Added Parameter Power Rating=100mW to Part R6
+Added Parameter Power Rating=100mW to Part R7
+Added Parameter Power Rating=100mW to Part R8
+Added Parameter Power Rating=100mW to Part R9
+Added Parameter Power Rating=100mW to Part R10
+Added Parameter Power Rating=100mW to Part R12
+Added Parameter Power Rating=100mW to Part R14
+Added Parameter Power Rating=100mW to Part R16
+Added Parameter Power Rating=100mW to Part R19
+Added Parameter Power Rating=100mW to Part R20
+Added Parameter Power Rating=100mW to Part R21
+Added Parameter Power Rating=100mW to Part R23
+Added Parameter Power Rating=100mW to Part R32
+Added Parameter Power Rating=100mW to Part R37
+Added Parameter Power Rating=100mW to Part R39
+Added Parameter Power Rating=100mW to Part R42
+Added Parameter Power Rating=100mW to Part R43
+Added Parameter Power Rating=100mW to Part R44
+Added Parameter Power Rating=100mW to Part R45
+Added Parameter Power Rating=100mW to Part R50
+Added Parameter Power Rating=100mW to Part R52
+Added Parameter Pricing 1=1 = 0,10000, 10 = 0,04500, 50 = 0,04500, 100 = 0,01500, 1000 = 0,00900, 10000 = 0,00600 (USD) to Part R1
+Added Parameter Pricing 1=1 = 0,10000, 10 = 0,04500, 50 = 0,04500, 100 = 0,01500, 1000 = 0,00900, 10000 = 0,00600 (USD) to Part R2
+Added Parameter Pricing 1=1 = 0,10000, 10 = 0,04500, 50 = 0,04500, 100 = 0,01500, 1000 = 0,00900, 10000 = 0,00600 (USD) to Part R3
+Added Parameter Pricing 1=1 = 0,10000, 10 = 0,04500, 50 = 0,04500, 100 = 0,01500, 1000 = 0,00900, 10000 = 0,00600 (USD) to Part R5
+Added Parameter Pricing 1=1 = 0,10000, 10 = 0,04500, 50 = 0,04500, 100 = 0,01500, 1000 = 0,00900, 10000 = 0,00600 (USD) to Part R6
+Added Parameter Pricing 1=1 = 0,10000, 10 = 0,04500, 50 = 0,04500, 100 = 0,01500, 1000 = 0,00900, 10000 = 0,00600 (USD) to Part R7
+Added Parameter Pricing 1=1 = 0,10000, 10 = 0,04500, 50 = 0,04500, 100 = 0,01500, 1000 = 0,00900, 10000 = 0,00600 (USD) to Part R8
+Added Parameter Pricing 1=1 = 0,10000, 10 = 0,04500, 50 = 0,04500, 100 = 0,01500, 1000 = 0,00900, 10000 = 0,00600 (USD) to Part R9
+Added Parameter Pricing 1=1 = 0,10000, 10 = 0,04500, 50 = 0,04500, 100 = 0,01500, 1000 = 0,00900, 10000 = 0,00600 (USD) to Part R10
+Added Parameter Pricing 1=1 = 0,10000, 10 = 0,04500, 50 = 0,04500, 100 = 0,01500, 1000 = 0,00900, 10000 = 0,00600 (USD) to Part R12
+Added Parameter Pricing 1=1 = 0,10000, 10 = 0,04500, 50 = 0,04500, 100 = 0,01500, 1000 = 0,00900, 10000 = 0,00600 (USD) to Part R14
+Added Parameter Pricing 1=1 = 0,10000, 10 = 0,04500, 50 = 0,04500, 100 = 0,01500, 1000 = 0,00900, 10000 = 0,00600 (USD) to Part R16
+Added Parameter Pricing 1=1 = 0,10000, 10 = 0,04500, 50 = 0,04500, 100 = 0,01500, 1000 = 0,00900, 10000 = 0,00600 (USD) to Part R19
+Added Parameter Pricing 1=1 = 0,10000, 10 = 0,04500, 50 = 0,04500, 100 = 0,01500, 1000 = 0,00900, 10000 = 0,00600 (USD) to Part R20
+Added Parameter Pricing 1=1 = 0,10000, 10 = 0,04500, 50 = 0,04500, 100 = 0,01500, 1000 = 0,00900, 10000 = 0,00600 (USD) to Part R21
+Added Parameter Pricing 1=1 = 0,10000, 10 = 0,04500, 50 = 0,04500, 100 = 0,01500, 1000 = 0,00900, 10000 = 0,00600 (USD) to Part R23
+Added Parameter Pricing 1=1 = 0,10000, 10 = 0,04500, 50 = 0,04500, 100 = 0,01500, 1000 = 0,00900, 10000 = 0,00600 (USD) to Part R32
+Added Parameter Pricing 1=1 = 0,10000, 10 = 0,04500, 50 = 0,04500, 100 = 0,01500, 1000 = 0,00900, 10000 = 0,00600 (USD) to Part R37
+Added Parameter Pricing 1=1 = 0,10000, 10 = 0,04500, 50 = 0,04500, 100 = 0,01500, 1000 = 0,00900, 10000 = 0,00600 (USD) to Part R39
+Added Parameter Pricing 1=1 = 0,10000, 10 = 0,04500, 50 = 0,04500, 100 = 0,01500, 1000 = 0,00900, 10000 = 0,00600 (USD) to Part R42
+Added Parameter Pricing 1=1 = 0,10000, 10 = 0,04500, 50 = 0,04500, 100 = 0,01500, 1000 = 0,00900, 10000 = 0,00600 (USD) to Part R43
+Added Parameter Pricing 1=1 = 0,10000, 10 = 0,04500, 50 = 0,04500, 100 = 0,01500, 1000 = 0,00900, 10000 = 0,00600 (USD) to Part R44
+Added Parameter Pricing 1=1 = 0,10000, 10 = 0,04500, 50 = 0,04500, 100 = 0,01500, 1000 = 0,00900, 10000 = 0,00600 (USD) to Part R45
+Added Parameter Pricing 1=1 = 0,10000, 10 = 0,04500, 50 = 0,04500, 100 = 0,01500, 1000 = 0,00900, 10000 = 0,00600 (USD) to Part R50
+Added Parameter Pricing 1=1 = 0,10000, 10 = 0,04500, 50 = 0,04500, 100 = 0,01500, 1000 = 0,00900, 10000 = 0,00600 (USD) to Part R52
+Added Parameter Published=8-Jun-2000 to Part R1
+Added Parameter Published=8-Jun-2000 to Part R2
+Added Parameter Published=8-Jun-2000 to Part R3
+Added Parameter Published=8-Jun-2000 to Part R5
+Added Parameter Published=8-Jun-2000 to Part R6
+Added Parameter Published=8-Jun-2000 to Part R7
+Added Parameter Published=8-Jun-2000 to Part R8
+Added Parameter Published=8-Jun-2000 to Part R9
+Added Parameter Published=8-Jun-2000 to Part R10
+Added Parameter Published=8-Jun-2000 to Part R12
+Added Parameter Published=8-Jun-2000 to Part R14
+Added Parameter Published=8-Jun-2000 to Part R16
+Added Parameter Published=8-Jun-2000 to Part R19
+Added Parameter Published=8-Jun-2000 to Part R20
+Added Parameter Published=8-Jun-2000 to Part R21
+Added Parameter Published=8-Jun-2000 to Part R23
+Added Parameter Published=8-Jun-2000 to Part R32
+Added Parameter Published=8-Jun-2000 to Part R37
+Added Parameter Published=8-Jun-2000 to Part R39
+Added Parameter Published=8-Jun-2000 to Part R42
+Added Parameter Published=8-Jun-2000 to Part R43
+Added Parameter Published=8-Jun-2000 to Part R44
+Added Parameter Published=8-Jun-2000 to Part R45
+Added Parameter Published=8-Jun-2000 to Part R50
+Added Parameter Published=8-Jun-2000 to Part R52
+Added Parameter Publisher=Altium Limited to Part R1
+Added Parameter Publisher=Altium Limited to Part R2
+Added Parameter Publisher=Altium Limited to Part R3
+Added Parameter Publisher=Altium Limited to Part R5
+Added Parameter Publisher=Altium Limited to Part R6
+Added Parameter Publisher=Altium Limited to Part R7
+Added Parameter Publisher=Altium Limited to Part R8
+Added Parameter Publisher=Altium Limited to Part R9
+Added Parameter Publisher=Altium Limited to Part R10
+Added Parameter Publisher=Altium Limited to Part R12
+Added Parameter Publisher=Altium Limited to Part R14
+Added Parameter Publisher=Altium Limited to Part R16
+Added Parameter Publisher=Altium Limited to Part R19
+Added Parameter Publisher=Altium Limited to Part R20
+Added Parameter Publisher=Altium Limited to Part R21
+Added Parameter Publisher=Altium Limited to Part R23
+Added Parameter Publisher=Altium Limited to Part R32
+Added Parameter Publisher=Altium Limited to Part R37
+Added Parameter Publisher=Altium Limited to Part R39
+Added Parameter Publisher=Altium Limited to Part R42
+Added Parameter Publisher=Altium Limited to Part R43
+Added Parameter Publisher=Altium Limited to Part R44
+Added Parameter Publisher=Altium Limited to Part R45
+Added Parameter Publisher=Altium Limited to Part R50
+Added Parameter Publisher=Altium Limited to Part R52
+Added Parameter REACH SVHC=Unknown to Part R1
+Added Parameter REACH SVHC=Unknown to Part R2
+Added Parameter REACH SVHC=Unknown to Part R3
+Added Parameter REACH SVHC=Unknown to Part R5
+Added Parameter REACH SVHC=Unknown to Part R6
+Added Parameter REACH SVHC=Unknown to Part R7
+Added Parameter REACH SVHC=Unknown to Part R8
+Added Parameter REACH SVHC=Unknown to Part R9
+Added Parameter REACH SVHC=Unknown to Part R10
+Added Parameter REACH SVHC=Unknown to Part R12
+Added Parameter REACH SVHC=Unknown to Part R14
+Added Parameter REACH SVHC=Unknown to Part R16
+Added Parameter REACH SVHC=Unknown to Part R19
+Added Parameter REACH SVHC=Unknown to Part R20
+Added Parameter REACH SVHC=Unknown to Part R21
+Added Parameter REACH SVHC=Unknown to Part R23
+Added Parameter REACH SVHC=Unknown to Part R32
+Added Parameter REACH SVHC=Unknown to Part R37
+Added Parameter REACH SVHC=Unknown to Part R39
+Added Parameter REACH SVHC=Unknown to Part R42
+Added Parameter REACH SVHC=Unknown to Part R43
+Added Parameter REACH SVHC=Unknown to Part R44
+Added Parameter REACH SVHC=Unknown to Part R45
+Added Parameter REACH SVHC=Unknown to Part R50
+Added Parameter REACH SVHC=Unknown to Part R52
+Added Parameter RoHS=Yes to Part R1
+Added Parameter RoHS=Yes to Part R2
+Added Parameter RoHS=Yes to Part R3
+Added Parameter RoHS=Yes to Part R5
+Added Parameter RoHS=Yes to Part R6
+Added Parameter RoHS=Yes to Part R7
+Added Parameter RoHS=Yes to Part R8
+Added Parameter RoHS=Yes to Part R9
+Added Parameter RoHS=Yes to Part R10
+Added Parameter RoHS=Yes to Part R12
+Added Parameter RoHS=Yes to Part R14
+Added Parameter RoHS=Yes to Part R16
+Added Parameter RoHS=Yes to Part R19
+Added Parameter RoHS=Yes to Part R20
+Added Parameter RoHS=Yes to Part R21
+Added Parameter RoHS=Yes to Part R23
+Added Parameter RoHS=Yes to Part R32
+Added Parameter RoHS=Yes to Part R37
+Added Parameter RoHS=Yes to Part R39
+Added Parameter RoHS=Yes to Part R42
+Added Parameter RoHS=Yes to Part R43
+Added Parameter RoHS=Yes to Part R44
+Added Parameter RoHS=Yes to Part R45
+Added Parameter RoHS=Yes to Part R50
+Added Parameter RoHS=Yes to Part R52
+Added Parameter Source=main.SchLib to Part R1
+Added Parameter Source=main.SchLib to Part R2
+Added Parameter Source=main.SchLib to Part R3
+Added Parameter Source=main.SchLib to Part R5
+Added Parameter Source=main.SchLib to Part R6
+Added Parameter Source=main.SchLib to Part R7
+Added Parameter Source=main.SchLib to Part R8
+Added Parameter Source=main.SchLib to Part R9
+Added Parameter Source=main.SchLib to Part R10
+Added Parameter Source=main.SchLib to Part R12
+Added Parameter Source=main.SchLib to Part R14
+Added Parameter Source=main.SchLib to Part R16
+Added Parameter Source=main.SchLib to Part R19
+Added Parameter Source=main.SchLib to Part R20
+Added Parameter Source=main.SchLib to Part R21
+Added Parameter Source=main.SchLib to Part R23
+Added Parameter Source=main.SchLib to Part R32
+Added Parameter Source=main.SchLib to Part R37
+Added Parameter Source=main.SchLib to Part R39
+Added Parameter Source=main.SchLib to Part R42
+Added Parameter Source=main.SchLib to Part R43
+Added Parameter Source=main.SchLib to Part R44
+Added Parameter Source=main.SchLib to Part R45
+Added Parameter Source=main.SchLib to Part R50
+Added Parameter Source=main.SchLib to Part R52
+Added Parameter Stock 1=93280 to Part R1
+Added Parameter Stock 1=93280 to Part R2
+Added Parameter Stock 1=93280 to Part R3
+Added Parameter Stock 1=93280 to Part R5
+Added Parameter Stock 1=93280 to Part R6
+Added Parameter Stock 1=93280 to Part R7
+Added Parameter Stock 1=93280 to Part R8
+Added Parameter Stock 1=93280 to Part R9
+Added Parameter Stock 1=93280 to Part R10
+Added Parameter Stock 1=93280 to Part R12
+Added Parameter Stock 1=93280 to Part R14
+Added Parameter Stock 1=93280 to Part R16
+Added Parameter Stock 1=93280 to Part R19
+Added Parameter Stock 1=93280 to Part R20
+Added Parameter Stock 1=93280 to Part R21
+Added Parameter Stock 1=93280 to Part R23
+Added Parameter Stock 1=93280 to Part R32
+Added Parameter Stock 1=93280 to Part R37
+Added Parameter Stock 1=93280 to Part R39
+Added Parameter Stock 1=93280 to Part R42
+Added Parameter Stock 1=93280 to Part R43
+Added Parameter Stock 1=93280 to Part R44
+Added Parameter Stock 1=93280 to Part R45
+Added Parameter Stock 1=93280 to Part R50
+Added Parameter Stock 1=93280 to Part R52
+Added Parameter Temperature Coefficient=50ppm/°C to Part R1
+Added Parameter Temperature Coefficient=50ppm/°C to Part R2
+Added Parameter Temperature Coefficient=50ppm/°C to Part R3
+Added Parameter Temperature Coefficient=50ppm/°C to Part R5
+Added Parameter Temperature Coefficient=50ppm/°C to Part R6
+Added Parameter Temperature Coefficient=50ppm/°C to Part R7
+Added Parameter Temperature Coefficient=50ppm/°C to Part R8
+Added Parameter Temperature Coefficient=50ppm/°C to Part R9
+Added Parameter Temperature Coefficient=50ppm/°C to Part R10
+Added Parameter Temperature Coefficient=50ppm/°C to Part R12
+Added Parameter Temperature Coefficient=50ppm/°C to Part R14
+Added Parameter Temperature Coefficient=50ppm/°C to Part R16
+Added Parameter Temperature Coefficient=50ppm/°C to Part R19
+Added Parameter Temperature Coefficient=50ppm/°C to Part R20
+Added Parameter Temperature Coefficient=50ppm/°C to Part R21
+Added Parameter Temperature Coefficient=50ppm/°C to Part R23
+Added Parameter Temperature Coefficient=50ppm/°C to Part R32
+Added Parameter Temperature Coefficient=50ppm/°C to Part R37
+Added Parameter Temperature Coefficient=50ppm/°C to Part R39
+Added Parameter Temperature Coefficient=50ppm/°C to Part R42
+Added Parameter Temperature Coefficient=50ppm/°C to Part R43
+Added Parameter Temperature Coefficient=50ppm/°C to Part R44
+Added Parameter Temperature Coefficient=50ppm/°C to Part R45
+Added Parameter Temperature Coefficient=50ppm/°C to Part R50
+Added Parameter Temperature Coefficient=50ppm/°C to Part R52
+Added Parameter Termination=SMD/SMT to Part R1
+Added Parameter Termination=SMD/SMT to Part R2
+Added Parameter Termination=SMD/SMT to Part R3
+Added Parameter Termination=SMD/SMT to Part R5
+Added Parameter Termination=SMD/SMT to Part R6
+Added Parameter Termination=SMD/SMT to Part R7
+Added Parameter Termination=SMD/SMT to Part R8
+Added Parameter Termination=SMD/SMT to Part R9
+Added Parameter Termination=SMD/SMT to Part R10
+Added Parameter Termination=SMD/SMT to Part R12
+Added Parameter Termination=SMD/SMT to Part R14
+Added Parameter Termination=SMD/SMT to Part R16
+Added Parameter Termination=SMD/SMT to Part R19
+Added Parameter Termination=SMD/SMT to Part R20
+Added Parameter Termination=SMD/SMT to Part R21
+Added Parameter Termination=SMD/SMT to Part R23
+Added Parameter Termination=SMD/SMT to Part R32
+Added Parameter Termination=SMD/SMT to Part R37
+Added Parameter Termination=SMD/SMT to Part R39
+Added Parameter Termination=SMD/SMT to Part R42
+Added Parameter Termination=SMD/SMT to Part R43
+Added Parameter Termination=SMD/SMT to Part R44
+Added Parameter Termination=SMD/SMT to Part R45
+Added Parameter Termination=SMD/SMT to Part R50
+Added Parameter Termination=SMD/SMT to Part R52
+Added Parameter Tolerance=1% to Part R1
+Added Parameter Tolerance=1% to Part R2
+Added Parameter Tolerance=1% to Part R3
+Added Parameter Tolerance=1% to Part R5
+Added Parameter Tolerance=1% to Part R6
+Added Parameter Tolerance=1% to Part R7
+Added Parameter Tolerance=1% to Part R8
+Added Parameter Tolerance=1% to Part R9
+Added Parameter Tolerance=1% to Part R10
+Added Parameter Tolerance=1% to Part R12
+Added Parameter Tolerance=1% to Part R14
+Added Parameter Tolerance=1% to Part R16
+Added Parameter Tolerance=1% to Part R19
+Added Parameter Tolerance=1% to Part R20
+Added Parameter Tolerance=1% to Part R21
+Added Parameter Tolerance=1% to Part R23
+Added Parameter Tolerance=1% to Part R32
+Added Parameter Tolerance=1% to Part R37
+Added Parameter Tolerance=1% to Part R39
+Added Parameter Tolerance=1% to Part R42
+Added Parameter Tolerance=1% to Part R43
+Added Parameter Tolerance=1% to Part R44
+Added Parameter Tolerance=1% to Part R45
+Added Parameter Tolerance=1% to Part R50
+Added Parameter Tolerance=1% to Part R52
+Added Parameter Value=10K to Part R1
+Added Parameter Value=10K to Part R2
+Added Parameter Value=10K to Part R3
+Added Parameter Value=10K to Part R5
+Added Parameter Value=10K to Part R6
+Added Parameter Value=10K to Part R7
+Added Parameter Value=10K to Part R8
+Added Parameter Value=10K to Part R9
+Added Parameter Value=10K to Part R10
+Added Parameter Value=10K to Part R12
+Added Parameter Value=10K to Part R14
+Added Parameter Value=10K to Part R16
+Added Parameter Value=10K to Part R19
+Added Parameter Value=10K to Part R20
+Added Parameter Value=10K to Part R21
+Added Parameter Value=10K to Part R23
+Added Parameter Value=10K to Part R32
+Added Parameter Value=10K to Part R37
+Added Parameter Value=10K to Part R39
+Added Parameter Value=10K to Part R42
+Added Parameter Value=10K to Part R43
+Added Parameter Value=10K to Part R44
+Added Parameter Value=10K to Part R45
+Added Parameter Value=10K to Part R50
+Added Parameter Value=10K to Part R52
+Added Parameter Voltage Rating (DC)=75V to Part R1
+Added Parameter Voltage Rating (DC)=75V to Part R2
+Added Parameter Voltage Rating (DC)=75V to Part R3
+Added Parameter Voltage Rating (DC)=75V to Part R5
+Added Parameter Voltage Rating (DC)=75V to Part R6
+Added Parameter Voltage Rating (DC)=75V to Part R7
+Added Parameter Voltage Rating (DC)=75V to Part R8
+Added Parameter Voltage Rating (DC)=75V to Part R9
+Added Parameter Voltage Rating (DC)=75V to Part R10
+Added Parameter Voltage Rating (DC)=75V to Part R12
+Added Parameter Voltage Rating (DC)=75V to Part R14
+Added Parameter Voltage Rating (DC)=75V to Part R16
+Added Parameter Voltage Rating (DC)=75V to Part R19
+Added Parameter Voltage Rating (DC)=75V to Part R20
+Added Parameter Voltage Rating (DC)=75V to Part R21
+Added Parameter Voltage Rating (DC)=75V to Part R23
+Added Parameter Voltage Rating (DC)=75V to Part R32
+Added Parameter Voltage Rating (DC)=75V to Part R37
+Added Parameter Voltage Rating (DC)=75V to Part R39
+Added Parameter Voltage Rating (DC)=75V to Part R42
+Added Parameter Voltage Rating (DC)=75V to Part R43
+Added Parameter Voltage Rating (DC)=75V to Part R44
+Added Parameter Voltage Rating (DC)=75V to Part R45
+Added Parameter Voltage Rating (DC)=75V to Part R50
+Added Parameter Voltage Rating (DC)=75V to Part R52
+Added Parameter Voltage Rating=75V to Part R1
+Added Parameter Voltage Rating=75V to Part R2
+Added Parameter Voltage Rating=75V to Part R3
+Added Parameter Voltage Rating=75V to Part R5
+Added Parameter Voltage Rating=75V to Part R6
+Added Parameter Voltage Rating=75V to Part R7
+Added Parameter Voltage Rating=75V to Part R8
+Added Parameter Voltage Rating=75V to Part R9
+Added Parameter Voltage Rating=75V to Part R10
+Added Parameter Voltage Rating=75V to Part R12
+Added Parameter Voltage Rating=75V to Part R14
+Added Parameter Voltage Rating=75V to Part R16
+Added Parameter Voltage Rating=75V to Part R19
+Added Parameter Voltage Rating=75V to Part R20
+Added Parameter Voltage Rating=75V to Part R21
+Added Parameter Voltage Rating=75V to Part R23
+Added Parameter Voltage Rating=75V to Part R32
+Added Parameter Voltage Rating=75V to Part R37
+Added Parameter Voltage Rating=75V to Part R39
+Added Parameter Voltage Rating=75V to Part R42
+Added Parameter Voltage Rating=75V to Part R43
+Added Parameter Voltage Rating=75V to Part R44
+Added Parameter Voltage Rating=75V to Part R45
+Added Parameter Voltage Rating=75V to Part R50
+Added Parameter Voltage Rating=75V to Part R52
+Added Parameter Width=0.031inch to Part R1
+Added Parameter Width=0.031inch to Part R2
+Added Parameter Width=0.031inch to Part R3
+Added Parameter Width=0.031inch to Part R5
+Added Parameter Width=0.031inch to Part R6
+Added Parameter Width=0.031inch to Part R7
+Added Parameter Width=0.031inch to Part R8
+Added Parameter Width=0.031inch to Part R9
+Added Parameter Width=0.031inch to Part R10
+Added Parameter Width=0.031inch to Part R12
+Added Parameter Width=0.031inch to Part R14
+Added Parameter Width=0.031inch to Part R16
+Added Parameter Width=0.031inch to Part R19
+Added Parameter Width=0.031inch to Part R20
+Added Parameter Width=0.031inch to Part R21
+Added Parameter Width=0.031inch to Part R23
+Added Parameter Width=0.031inch to Part R32
+Added Parameter Width=0.031inch to Part R37
+Added Parameter Width=0.031inch to Part R39
+Added Parameter Width=0.031inch to Part R42
+Added Parameter Width=0.031inch to Part R43
+Added Parameter Width=0.031inch to Part R44
+Added Parameter Width=0.031inch to Part R45
+Added Parameter Width=0.031inch to Part R50
+Added Parameter Width=0.031inch to Part R52
+Update Managed Component R1 From CMP-037-0050-10[Res 10k 1% 0805] To CMP-037-0050-10[Res 0603 10K 1%] in Optical Compressor V2.SchDoc
+Update Managed Component R2 From CMP-037-0050-10[Res 10k 1% 0805] To CMP-037-0050-10[Res 0603 10K 1%] in Optical Compressor V2.SchDoc
+Update Managed Component R3 From CMP-037-0050-10[Res 10k 1% 0805] To CMP-037-0050-10[Res 0603 10K 1%] in Optical Compressor V2.SchDoc
+Update Managed Component R5 From CMP-037-0050-10[Res 10k 1% 0805] To CMP-037-0050-10[Res 0603 10K 1%] in Optical Compressor V2.SchDoc
+Update Managed Component R6 From CMP-037-0050-10[Res 10k 1% 0805] To CMP-037-0050-10[Res 0603 10K 1%] in Optical Compressor V2.SchDoc
+Update Managed Component R7 From CMP-037-0050-10[Res 10k 1% 0805] To CMP-037-0050-10[Res 0603 10K 1%] in Optical Compressor V2.SchDoc
+Update Managed Component R8 From CMP-037-0050-10[Res 10k 1% 0805] To CMP-037-0050-10[Res 0603 10K 1%] in Optical Compressor V2.SchDoc
+Update Managed Component R9 From CMP-037-0050-10[Res 10k 1% 0805] To CMP-037-0050-10[Res 0603 10K 1%] in Optical Compressor V2.SchDoc
+Update Managed Component R10 From CMP-037-0050-10[Res 10k 1% 0805] To CMP-037-0050-10[Res 0603 10K 1%] in Optical Compressor V2.SchDoc
+Update Managed Component R12 From CMP-037-0050-10[Res 10k 1% 0805] To CMP-037-0050-10[Res 0603 10K 1%] in Optical Compressor V2.SchDoc
+Update Managed Component R14 From CMP-037-0050-10[Res 10k 1% 0805] To CMP-037-0050-10[Res 0603 10K 1%] in Optical Compressor V2.SchDoc
+Update Managed Component R16 From CMP-037-0050-10[Res 10k 1% 0805] To CMP-037-0050-10[Res 0603 10K 1%] in Optical Compressor V2.SchDoc
+Update Managed Component R19 From CMP-037-0050-10[Res 10k 1% 0805] To CMP-037-0050-10[Res 0603 10K 1%] in Optical Compressor V2.SchDoc
+Update Managed Component R20 From CMP-037-0050-10[Res 10k 1% 0805] To CMP-037-0050-10[Res 0603 10K 1%] in Optical Compressor V2.SchDoc
+Update Managed Component R21 From CMP-037-0050-10[Res 10k 1% 0805] To CMP-037-0050-10[Res 0603 10K 1%] in Optical Compressor V2.SchDoc
+Update Managed Component R23 From CMP-037-0050-10[Res 10k 1% 0805] To CMP-037-0050-10[Res 0603 10K 1%] in Optical Compressor V2.SchDoc
+Update Managed Component R32 From CMP-037-0050-10[Res 10k 1% 0805] To CMP-037-0050-10[Res 0603 10K 1%] in Optical Compressor V2.SchDoc
+Update Managed Component R37 From CMP-037-0050-10[Res 10k 1% 0805] To CMP-037-0050-10[Res 0603 10K 1%] in Optical Compressor V2.SchDoc
+Update Managed Component R39 From CMP-037-0050-10[Res 10k 1% 0805] To CMP-037-0050-10[Res 0603 10K 1%] in Optical Compressor V2.SchDoc
+Update Managed Component R42 From CMP-037-0050-10[Res 10k 1% 0805] To CMP-037-0050-10[Res 0603 10K 1%] in Optical Compressor V2.SchDoc
+Update Managed Component R43 From CMP-037-0050-10[Res 10k 1% 0805] To CMP-037-0050-10[Res 0603 10K 1%] in Optical Compressor V2.SchDoc
+Update Managed Component R44 From CMP-037-0050-10[Res 10k 1% 0805] To CMP-037-0050-10[Res 0603 10K 1%] in Optical Compressor V2.SchDoc
+Update Managed Component R45 From CMP-037-0050-10[Res 10k 1% 0805] To CMP-037-0050-10[Res 0603 10K 1%] in Optical Compressor V2.SchDoc
+Update Managed Component R50 From CMP-037-0050-10[Res 10k 1% 0805] To CMP-037-0050-10[Res 0603 10K 1%] in Optical Compressor V2.SchDoc
+Update Managed Component R52 From CMP-037-0050-10[Res 10k 1% 0805] To CMP-037-0050-10[Res 0603 10K 1%] in Optical Compressor V2.SchDoc
