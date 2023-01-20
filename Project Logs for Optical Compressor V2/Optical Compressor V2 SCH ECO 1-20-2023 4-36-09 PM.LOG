@@ -1,0 +1,26 @@
+Removed Parameter ComponentLink1Description:https://datasheet.ciiva.com/18192/getdatasheetpartid-308025-18192620.pdf?src-supplier=Verical from Part C34
+Removed Parameter ComponentLink1URL:https://datasheet.ciiva.com/18192/getdatasheetpartid-308025-18192620.pdf?src-supplier=Verical from Part C34
+Removed Parameter Depth:0.8mm from Part C34
+Removed Parameter Dielectric Material:Ceramic from Part C34
+Removed Parameter Height:0.8mm from Part C34
+Removed Parameter Lead Free:Lead Free from Part C34
+Removed Parameter Radiation Hardening:No from Part C34
+Change Value of Parameter Design Item ID in Part C34 Old=Cap 0603 100pF 100V New=Cap 0603 100pF
+Change Value of Parameter Length in Part C34 Old=1.6mm New=0.063inch
+Change Value of Parameter Packaging in Part C34 Old=Tape and Reel New=Cut Tape
+Change Value of Parameter Pricing 1 in Part C34 Old=1=0,10000, 10=0,02700, 100=0,01900, 500=0,01600, 1000=0,01200, 4000=0,00900 (USD) New=1 = 0,10000, 10 = 0,02400, 50 = 0,02400, 100 = 0,02200, 1000 = 0,01900, 10000 = 0,01100 (USD)
+Change Value of Parameter Stock 1 in Part C34 Old=170146 New=12395
+Change Value of Parameter Voltage Rating (DC) in Part C34 Old=100V New=50V
+Added Parameter Case Code (Imperial)=0603 to Part C34
+Added Parameter Case Code (Metric)=1608 to Part C34
+Added Parameter LatestRevisionDate=29-May-2009 to Part C34
+Added Parameter LatestRevisionNote=IPC-7351 Footprint Added. to Part C34
+Added Parameter PackageDescription=Chip Capacitor to Part C34
+Added Parameter PackageReference=C1206 to Part C34
+Added Parameter Published=8-Jun-2000 to Part C34
+Added Parameter Publisher=Altium Limited to Part C34
+Added Parameter REACH SVHC=Unknown to Part C34
+Added Parameter Thickness=0.034inch to Part C34
+Added Parameter Voltage Rating=50V to Part C34
+Added Parameter Width=0.031inch to Part C34
+Update Managed Component C34 From CMP-019-0054-13[Cap 0603 100pF 100V] To CMP-019-0054-13[Cap 0603 100pF] in Optical Compressor V2.SchDoc
