@@ -1,0 +1,12 @@
+Added Component: Designator=OC1(NSL)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Advanced Photonix"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NSL-32SR2S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "- Advanced Photonix"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/NSL-32SR2S/Advanced%20Photonix/view-part/2598365/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CV Pin=OC1-A
+Added Pin To Net: NetName=NetOC1_C1 Pin=OC1-C1
+Added Pin To Net: NetName=NetOC1_C2 Pin=OC1-C2
+Added Pin To Net: NetName=GND Pin=OC1-K
