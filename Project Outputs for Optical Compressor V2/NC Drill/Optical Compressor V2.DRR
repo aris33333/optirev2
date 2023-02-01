@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Optical Compressor V2.PcbDoc   2/1/2023  4:13:31 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Copper to Bottom Copper
+ASCII RoundHoles File : Optical Compressor V2-RoundHoles.TXT
+ASCII SlotHoles File : Optical Compressor V2-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             181       PTH        37.20inch (944.85mm)
+T2      20mil (0.5mm)                                             Slot              4         PTH        4.74inch (120.38mm)
+T3      32mil (0.813mm)                                           Round             7         PTH        1.81inch (46.02mm)
+T4      35mil (0.889mm)                                           Round             2         PTH        0.10inch (2.54mm)
+T5      39mil (1mm)                                               Slot              3         PTH        1.26inch (31.92mm)
+T6      43mil (1.1mm)                                             Round             14        PTH        5.37inch (136.44mm)
+T7      47mil (1.2mm)                                             Round             4         PTH        1.18inch (30.00mm)
+T8      51mil (1.3mm)                                             Round             6         PTH        3.28inch (83.20mm)
+T9      51mil (1.3mm)                                             Slot              2         PTH        0.69inch (17.62mm)
+T10     59mil (1.5mm)                                             Round             12        PTH        5.42inch (137.70mm)
+T11     67mil (1.7mm)                                             Round             2         NPTH       0.35inch (9.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              237
+
+Total Processing Time (hh:mm:ss) : 00:00:00

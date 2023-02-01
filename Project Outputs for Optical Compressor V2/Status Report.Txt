@@ -1,0 +1,29 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of PCB Document [Optical Compressor V2.PcbDoc]
+   Generated File[Optical Compressor V2_Copper_Signal_Top.gbr]
+   Generated File[Optical Compressor V2_Copper_Signal_1.gbr]
+   Generated File[Optical Compressor V2_Copper_Signal_2.gbr]
+   Generated File[Optical Compressor V2_Copper_Signal_Bot.gbr]
+   Generated File[Optical Compressor V2_Paste_Bot.gbr]
+   Generated File[Optical Compressor V2_Legend_Bot.gbr]
+   Generated File[Optical Compressor V2_Soldermask_Bot.gbr]
+   Generated File[Optical Compressor V2_Legend_Top.gbr]
+   Generated File[Optical Compressor V2_Paste_Top.gbr]
+   Generated File[Optical Compressor V2_Soldermask_Top.gbr]
+   Generated File[Optical Compressor V2_Mechanical_40.gbr]
+   Generated File[Optical Compressor V2_Mechanical_41.gbr]
+   Generated File[Optical Compressor V2_Profile.gbr]
+   Generated File[Optical Compressor V2_NPTH_Drill.gbr]
+   Generated File[Optical Compressor V2_PTH_Drill.gbr]
+   Generated File[Optical Compressor V2_Drawing_1.gbr]
+   Generated File[Optical Compressor V2_Drillmap_1.gbr]
+   Generated File[Optical Compressor V2.RUL]
+   Generated File[Optical Compressor V2.EXTREP]
+   Generated File[Optical Compressor V2.REP]
+
+
+Files Generated   : 20
+Documents Printed : 0
+
+Finished Output Generation At 4:13:35 PM On 2/1/2023
