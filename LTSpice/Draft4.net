@@ -1,0 +1,24 @@
+* C:\Users\DG Maintenance\Documents\optirev2\LTSpice\Draft4.asc
+R1 N005 N004 220k
+C1 N004 N002 22n
+C2 N003 N004 68n
+R2 N003 N002 100k
+XU1 N006 N001 +12 -12 N002 level1 Avol=1Meg GBW=10Meg Vos=0 En=0 Enk=0 In=0 Ink=0 Rin=500Meg
+R3 N002 N001 100k
+R4 N001 0 10k
+R5 N009 N004 2k2
+R6 N010 N009 47k
+C3 N011 N009 10n
+R7 N011 N010 100k
+R8 N011 N010 100k
+XU2 0 N005 +12 -12 N007 level1 Avol=1Meg GBW=10Meg Vos=0 En=0 Enk=0 In=0 Ink=0 Rin=500Meg
+C4 N007 N010 1n
+R9 N008 N011 2k2
+R10 N008 N007 220k
+V1 +12 0 12
+V2 -12 0 -12
+V3 N006 0 SINE(0 1 1K) AC 1
+.ac dec 20 10 20k
+.lib UniversalOpAmp1.lib
+.backanno
+.end
